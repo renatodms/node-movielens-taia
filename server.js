@@ -1,11 +1,11 @@
 const express = require('express'),
     app = express(),
     http = require('http').createServer(app),
-    bodyParser = require('body-parser'),
-    route = require('./route');
+    bodyParser = require('body-parser');
 
 app.use(bodyParser.json());
-route(app);
+require('./util/dbInsert');
+require('./route')(app);
 
 const port = 80;
 http.listen(port, () => {
