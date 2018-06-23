@@ -1,0 +1,7778 @@
+[
+    {
+      "userId": 15,
+      "movieId": 339,
+      "tag": "sandra 'boring' bullock",
+      "timestamp": 1138537770
+    },
+    {
+      "userId": 15,
+      "movieId": 1955,
+      "tag": "dentist",
+      "timestamp": 1193435061
+    },
+    {
+      "userId": 15,
+      "movieId": 7478,
+      "tag": "Cambodia",
+      "timestamp": 1170560997
+    },
+    {
+      "userId": 15,
+      "movieId": 32892,
+      "tag": "Russian",
+      "timestamp": 1170626366
+    },
+    {
+      "userId": 15,
+      "movieId": 34162,
+      "tag": "forgettable",
+      "timestamp": 1141391765
+    },
+    {
+      "userId": 15,
+      "movieId": 35957,
+      "tag": "short",
+      "timestamp": 1141391873
+    },
+    {
+      "userId": 15,
+      "movieId": 37729,
+      "tag": "dull story",
+      "timestamp": 1141391806
+    },
+    {
+      "userId": 15,
+      "movieId": 45950,
+      "tag": "powerpoint",
+      "timestamp": 1169616291
+    },
+    {
+      "userId": 15,
+      "movieId": 100365,
+      "tag": "activist",
+      "timestamp": 1425876220
+    },
+    {
+      "userId": 15,
+      "movieId": 100365,
+      "tag": "documentary",
+      "timestamp": 1425876220
+    },
+    {
+      "userId": 15,
+      "movieId": 100365,
+      "tag": "uganda",
+      "timestamp": 1425876220
+    },
+    {
+      "userId": 23,
+      "movieId": 150,
+      "tag": "Ron Howard",
+      "timestamp": 1148672905
+    },
+    {
+      "userId": 68,
+      "movieId": 2174,
+      "tag": "music",
+      "timestamp": 1249808064
+    },
+    {
+      "userId": 68,
+      "movieId": 2174,
+      "tag": "weird",
+      "timestamp": 1249808102
+    },
+    {
+      "userId": 68,
+      "movieId": 8623,
+      "tag": "Steve Martin",
+      "timestamp": 1249808497
+    },
+    {
+      "userId": 73,
+      "movieId": 107999,
+      "tag": "action",
+      "timestamp": 1430799184
+    },
+    {
+      "userId": 73,
+      "movieId": 107999,
+      "tag": "anime",
+      "timestamp": 1430799184
+    },
+    {
+      "userId": 73,
+      "movieId": 107999,
+      "tag": "kung fu",
+      "timestamp": 1430799184
+    },
+    {
+      "userId": 73,
+      "movieId": 111624,
+      "tag": "drama",
+      "timestamp": 1431584497
+    },
+    {
+      "userId": 73,
+      "movieId": 111624,
+      "tag": "indie",
+      "timestamp": 1431584497
+    },
+    {
+      "userId": 73,
+      "movieId": 111624,
+      "tag": "love",
+      "timestamp": 1431584497
+    },
+    {
+      "userId": 73,
+      "movieId": 130682,
+      "tag": "b movie",
+      "timestamp": 1432523704
+    },
+    {
+      "userId": 73,
+      "movieId": 130682,
+      "tag": "comedt",
+      "timestamp": 1432523704
+    },
+    {
+      "userId": 73,
+      "movieId": 130682,
+      "tag": "horror",
+      "timestamp": 1432523704
+    },
+    {
+      "userId": 77,
+      "movieId": 1199,
+      "tag": "Trilogy of the Imagination",
+      "timestamp": 1163220043
+    },
+    {
+      "userId": 77,
+      "movieId": 2968,
+      "tag": "Gilliam",
+      "timestamp": 1163220138
+    },
+    {
+      "userId": 77,
+      "movieId": 2968,
+      "tag": "Trilogy of the Imagination",
+      "timestamp": 1163220039
+    },
+    {
+      "userId": 77,
+      "movieId": 4467,
+      "tag": "Trilogy of the Imagination",
+      "timestamp": 1163220065
+    },
+    {
+      "userId": 77,
+      "movieId": 4911,
+      "tag": "Gilliam",
+      "timestamp": 1163220167
+    },
+    {
+      "userId": 77,
+      "movieId": 5909,
+      "tag": "Takashi Miike",
+      "timestamp": 1163219591
+    },
+    {
+      "userId": 77,
+      "movieId": 47465,
+      "tag": "Gilliam",
+      "timestamp": 1163220186
+    },
+    {
+      "userId": 84,
+      "movieId": 296,
+      "tag": "intense",
+      "timestamp": 1429911417
+    },
+    {
+      "userId": 84,
+      "movieId": 296,
+      "tag": "r:violence",
+      "timestamp": 1429911417
+    },
+    {
+      "userId": 84,
+      "movieId": 296,
+      "tag": "tarantino",
+      "timestamp": 1429911417
+    },
+    {
+      "userId": 91,
+      "movieId": 4388,
+      "tag": "parody",
+      "timestamp": 1448813502
+    },
+    {
+      "userId": 94,
+      "movieId": 1131,
+      "tag": "emotional",
+      "timestamp": 1291781542
+    },
+    {
+      "userId": 94,
+      "movieId": 1131,
+      "tag": "tragedy",
+      "timestamp": 1291781538
+    },
+    {
+      "userId": 94,
+      "movieId": 64957,
+      "tag": "original plot",
+      "timestamp": 1291781246
+    },
+    {
+      "userId": 94,
+      "movieId": 74458,
+      "tag": "Predictable",
+      "timestamp": 1291780920
+    },
+    {
+      "userId": 106,
+      "movieId": 48711,
+      "tag": "CHRISTIAN",
+      "timestamp": 1215923364
+    },
+    {
+      "userId": 132,
+      "movieId": 4189,
+      "tag": "jesus",
+      "timestamp": 1367909949
+    },
+    {
+      "userId": 132,
+      "movieId": 4612,
+      "tag": "jesus",
+      "timestamp": 1367909949
+    },
+    {
+      "userId": 132,
+      "movieId": 6683,
+      "tag": "bollywood",
+      "timestamp": 1367909913
+    },
+    {
+      "userId": 132,
+      "movieId": 6986,
+      "tag": "jesus",
+      "timestamp": 1367909949
+    },
+    {
+      "userId": 132,
+      "movieId": 27255,
+      "tag": "No progress",
+      "timestamp": 1283581045
+    },
+    {
+      "userId": 132,
+      "movieId": 27255,
+      "tag": "Too slow",
+      "timestamp": 1283581045
+    },
+    {
+      "userId": 132,
+      "movieId": 27255,
+      "tag": "Views",
+      "timestamp": 1283581045
+    },
+    {
+      "userId": 138,
+      "movieId": 260,
+      "tag": "cult classic",
+      "timestamp": 1440379022
+    },
+    {
+      "userId": 138,
+      "movieId": 260,
+      "tag": "Science Fiction",
+      "timestamp": 1440379018
+    },
+    {
+      "userId": 138,
+      "movieId": 1258,
+      "tag": "cult film",
+      "timestamp": 1440380361
+    },
+    {
+      "userId": 138,
+      "movieId": 1258,
+      "tag": "jack nicholson",
+      "timestamp": 1440380355
+    },
+    {
+      "userId": 138,
+      "movieId": 1258,
+      "tag": "psychological",
+      "timestamp": 1440380357
+    },
+    {
+      "userId": 138,
+      "movieId": 1258,
+      "tag": "Stanley Kubrick",
+      "timestamp": 1440380352
+    },
+    {
+      "userId": 138,
+      "movieId": 1704,
+      "tag": "genius",
+      "timestamp": 1440380467
+    },
+    {
+      "userId": 138,
+      "movieId": 1704,
+      "tag": "intellectual",
+      "timestamp": 1440380463
+    },
+    {
+      "userId": 138,
+      "movieId": 1704,
+      "tag": "mathematics",
+      "timestamp": 1440380466
+    },
+    {
+      "userId": 138,
+      "movieId": 1704,
+      "tag": "psychology",
+      "timestamp": 1440380470
+    },
+    {
+      "userId": 138,
+      "movieId": 4226,
+      "tag": "Mindfuck",
+      "timestamp": 1440380125
+    },
+    {
+      "userId": 138,
+      "movieId": 4226,
+      "tag": "nonlinear",
+      "timestamp": 1440380113
+    },
+    {
+      "userId": 138,
+      "movieId": 4226,
+      "tag": "psychology",
+      "timestamp": 1440380115
+    },
+    {
+      "userId": 138,
+      "movieId": 4226,
+      "tag": "twist ending",
+      "timestamp": 1440380118
+    },
+    {
+      "userId": 138,
+      "movieId": 4995,
+      "tag": "genius",
+      "timestamp": 1440380440
+    },
+    {
+      "userId": 138,
+      "movieId": 4995,
+      "tag": "intelligent",
+      "timestamp": 1440380446
+    },
+    {
+      "userId": 138,
+      "movieId": 4995,
+      "tag": "math",
+      "timestamp": 1440380438
+    },
+    {
+      "userId": 138,
+      "movieId": 4995,
+      "tag": "mathematics",
+      "timestamp": 1440380436
+    },
+    {
+      "userId": 138,
+      "movieId": 4995,
+      "tag": "twist ending",
+      "timestamp": 1440380448
+    },
+    {
+      "userId": 138,
+      "movieId": 48780,
+      "tag": "Christopher Nolan",
+      "timestamp": 1440380053
+    },
+    {
+      "userId": 138,
+      "movieId": 48780,
+      "tag": "complicated",
+      "timestamp": 1440380062
+    },
+    {
+      "userId": 138,
+      "movieId": 48780,
+      "tag": "Hugh Jackman",
+      "timestamp": 1440380072
+    },
+    {
+      "userId": 138,
+      "movieId": 48780,
+      "tag": "nonlinear",
+      "timestamp": 1440380067
+    },
+    {
+      "userId": 138,
+      "movieId": 48780,
+      "tag": "psychological",
+      "timestamp": 1440380064
+    },
+    {
+      "userId": 138,
+      "movieId": 48780,
+      "tag": "twist ending",
+      "timestamp": 1440380047
+    },
+    {
+      "userId": 138,
+      "movieId": 79132,
+      "tag": "alternate reality",
+      "timestamp": 1440380233
+    },
+    {
+      "userId": 138,
+      "movieId": 79132,
+      "tag": "Christopher Nolan",
+      "timestamp": 1440380255
+    },
+    {
+      "userId": 138,
+      "movieId": 79132,
+      "tag": "intellectual",
+      "timestamp": 1440380251
+    },
+    {
+      "userId": 138,
+      "movieId": 79132,
+      "tag": "mindfuck",
+      "timestamp": 1440380252
+    },
+    {
+      "userId": 138,
+      "movieId": 79132,
+      "tag": "philosophy",
+      "timestamp": 1440380242
+    },
+    {
+      "userId": 138,
+      "movieId": 79132,
+      "tag": "sci-fi",
+      "timestamp": 1440380239
+    },
+    {
+      "userId": 138,
+      "movieId": 79132,
+      "tag": "twist ending",
+      "timestamp": 1440380245
+    },
+    {
+      "userId": 138,
+      "movieId": 109487,
+      "tag": "artificial intelligence",
+      "timestamp": 1440379984
+    },
+    {
+      "userId": 138,
+      "movieId": 109487,
+      "tag": "Christopher Nolan",
+      "timestamp": 1440380001
+    },
+    {
+      "userId": 138,
+      "movieId": 109487,
+      "tag": "good science",
+      "timestamp": 1440379977
+    },
+    {
+      "userId": 138,
+      "movieId": 109487,
+      "tag": "interesting ideea",
+      "timestamp": 1440379991
+    },
+    {
+      "userId": 138,
+      "movieId": 109487,
+      "tag": "philosophical issues",
+      "timestamp": 1440379996
+    },
+    {
+      "userId": 138,
+      "movieId": 109487,
+      "tag": "physics",
+      "timestamp": 1440379925
+    },
+    {
+      "userId": 138,
+      "movieId": 109487,
+      "tag": "relativity",
+      "timestamp": 1440380500
+    },
+    {
+      "userId": 138,
+      "movieId": 109487,
+      "tag": "sci-fi",
+      "timestamp": 1440380008
+    },
+    {
+      "userId": 138,
+      "movieId": 109487,
+      "tag": "sentimental",
+      "timestamp": 1440379993
+    },
+    {
+      "userId": 138,
+      "movieId": 109487,
+      "tag": "space",
+      "timestamp": 1440379974
+    },
+    {
+      "userId": 138,
+      "movieId": 109487,
+      "tag": "time travel",
+      "timestamp": 1440379981
+    },
+    {
+      "userId": 138,
+      "movieId": 109487,
+      "tag": "time-travel",
+      "timestamp": 1440379968
+    },
+    {
+      "userId": 149,
+      "movieId": 121231,
+      "tag": "eerie",
+      "timestamp": 1436920551
+    },
+    {
+      "userId": 149,
+      "movieId": 121231,
+      "tag": "friendship",
+      "timestamp": 1436920551
+    },
+    {
+      "userId": 149,
+      "movieId": 121231,
+      "tag": "teenagers",
+      "timestamp": 1436920551
+    },
+    {
+      "userId": 152,
+      "movieId": 52319,
+      "tag": "World War II",
+      "timestamp": 1335900622
+    },
+    {
+      "userId": 164,
+      "movieId": 608,
+      "tag": "Quirky",
+      "timestamp": 1179031045
+    },
+    {
+      "userId": 176,
+      "movieId": 5445,
+      "tag": "Tom Cruise",
+      "timestamp": 1378384753
+    },
+    {
+      "userId": 176,
+      "movieId": 7458,
+      "tag": "Brad Pitt",
+      "timestamp": 1341055445
+    },
+    {
+      "userId": 176,
+      "movieId": 8972,
+      "tag": "Nicolas Cage",
+      "timestamp": 1341055378
+    },
+    {
+      "userId": 176,
+      "movieId": 69640,
+      "tag": "Johnny Depp",
+      "timestamp": 1340916254
+    },
+    {
+      "userId": 176,
+      "movieId": 104841,
+      "tag": "sexist",
+      "timestamp": 1384107184
+    },
+    {
+      "userId": 179,
+      "movieId": 260,
+      "tag": "nerdy",
+      "timestamp": 1436669973
+    },
+    {
+      "userId": 179,
+      "movieId": 260,
+      "tag": "Science Fiction",
+      "timestamp": 1436669968
+    },
+    {
+      "userId": 187,
+      "movieId": 2082,
+      "tag": "Emilio Estevez",
+      "timestamp": 1233517175
+    },
+    {
+      "userId": 200,
+      "movieId": 260,
+      "tag": "critically acclaimed",
+      "timestamp": 1437932756
+    },
+    {
+      "userId": 200,
+      "movieId": 260,
+      "tag": "Science Fiction",
+      "timestamp": 1437932763
+    },
+    {
+      "userId": 200,
+      "movieId": 80551,
+      "tag": "strong female presence",
+      "timestamp": 1438023607
+    },
+    {
+      "userId": 212,
+      "movieId": 1061,
+      "tag": "emotional",
+      "timestamp": 1253930128
+    },
+    {
+      "userId": 212,
+      "movieId": 1061,
+      "tag": "revenge",
+      "timestamp": 1253930131
+    },
+    {
+      "userId": 212,
+      "movieId": 1061,
+      "tag": "true story",
+      "timestamp": 1253930149
+    },
+    {
+      "userId": 212,
+      "movieId": 1732,
+      "tag": "cult film",
+      "timestamp": 1253929373
+    },
+    {
+      "userId": 212,
+      "movieId": 1732,
+      "tag": "dark comedy",
+      "timestamp": 1253929372
+    },
+    {
+      "userId": 212,
+      "movieId": 1732,
+      "tag": "satirical",
+      "timestamp": 1253929376
+    },
+    {
+      "userId": 212,
+      "movieId": 2359,
+      "tag": "British",
+      "timestamp": 1253930034
+    },
+    {
+      "userId": 212,
+      "movieId": 2641,
+      "tag": "childish plot",
+      "timestamp": 1253930390
+    },
+    {
+      "userId": 212,
+      "movieId": 2641,
+      "tag": "plot holes",
+      "timestamp": 1253930395
+    },
+    {
+      "userId": 212,
+      "movieId": 2641,
+      "tag": "superhero",
+      "timestamp": 1253930399
+    },
+    {
+      "userId": 212,
+      "movieId": 3257,
+      "tag": "Kevin Costner",
+      "timestamp": 1253930539
+    },
+    {
+      "userId": 212,
+      "movieId": 3257,
+      "tag": "snorefest",
+      "timestamp": 1253930543
+    },
+    {
+      "userId": 212,
+      "movieId": 3275,
+      "tag": "vigilantism",
+      "timestamp": 1218405594
+    },
+    {
+      "userId": 212,
+      "movieId": 3300,
+      "tag": "anti-hero",
+      "timestamp": 1253929917
+    },
+    {
+      "userId": 212,
+      "movieId": 3300,
+      "tag": "Cole Hauser",
+      "timestamp": 1253929922
+    },
+    {
+      "userId": 212,
+      "movieId": 3300,
+      "tag": "Vin Diesel",
+      "timestamp": 1253929910
+    },
+    {
+      "userId": 212,
+      "movieId": 3301,
+      "tag": "Amanda Peet",
+      "timestamp": 1253929798
+    },
+    {
+      "userId": 212,
+      "movieId": 3301,
+      "tag": "Matthew Perry",
+      "timestamp": 1253929802
+    },
+    {
+      "userId": 212,
+      "movieId": 3301,
+      "tag": "Rosanna Arquette",
+      "timestamp": 1253929813
+    },
+    {
+      "userId": 212,
+      "movieId": 3809,
+      "tag": "Bill Murray",
+      "timestamp": 1253931205
+    },
+    {
+      "userId": 212,
+      "movieId": 3809,
+      "tag": "quirky",
+      "timestamp": 1253931216
+    },
+    {
+      "userId": 212,
+      "movieId": 3882,
+      "tag": "cheerleading",
+      "timestamp": 1253932873
+    },
+    {
+      "userId": 212,
+      "movieId": 3882,
+      "tag": "Eliza Dushku",
+      "timestamp": 1253932876
+    },
+    {
+      "userId": 212,
+      "movieId": 3882,
+      "tag": "Overrated",
+      "timestamp": 1253932878
+    },
+    {
+      "userId": 212,
+      "movieId": 4069,
+      "tag": "standard romantic comedy",
+      "timestamp": 1253933882
+    },
+    {
+      "userId": 212,
+      "movieId": 5219,
+      "tag": "video game adaptation",
+      "timestamp": 1253930587
+    },
+    {
+      "userId": 212,
+      "movieId": 5507,
+      "tag": "play enough video games and you can become an NSA agent",
+      "timestamp": 1253930345
+    },
+    {
+      "userId": 212,
+      "movieId": 5507,
+      "tag": "ridiculous training sequence",
+      "timestamp": 1253930342
+    },
+    {
+      "userId": 212,
+      "movieId": 7373,
+      "tag": "Guillermo del Toro",
+      "timestamp": 1253929290
+    },
+    {
+      "userId": 212,
+      "movieId": 7373,
+      "tag": "steampunk",
+      "timestamp": 1253929296
+    },
+    {
+      "userId": 212,
+      "movieId": 7373,
+      "tag": "superhero",
+      "timestamp": 1253929293
+    },
+    {
+      "userId": 212,
+      "movieId": 8861,
+      "tag": "Oded Fehr",
+      "timestamp": 1253930624
+    },
+    {
+      "userId": 212,
+      "movieId": 8861,
+      "tag": "post-apocalyptic",
+      "timestamp": 1253930636
+    },
+    {
+      "userId": 212,
+      "movieId": 8861,
+      "tag": "Sienna Guillory",
+      "timestamp": 1253930633
+    },
+    {
+      "userId": 212,
+      "movieId": 8861,
+      "tag": "zombies",
+      "timestamp": 1253930644
+    },
+    {
+      "userId": 212,
+      "movieId": 8928,
+      "tag": "Beautiful Woman",
+      "timestamp": 1253926735
+    },
+    {
+      "userId": 212,
+      "movieId": 8928,
+      "tag": "campy",
+      "timestamp": 1253926723
+    },
+    {
+      "userId": 212,
+      "movieId": 8928,
+      "tag": "irreverent",
+      "timestamp": 1253926726
+    },
+    {
+      "userId": 212,
+      "movieId": 8928,
+      "tag": "quirky",
+      "timestamp": 1253926728
+    },
+    {
+      "userId": 212,
+      "movieId": 8928,
+      "tag": "Roman Polanski",
+      "timestamp": 1253926730
+    },
+    {
+      "userId": 212,
+      "movieId": 27904,
+      "tag": "good animation",
+      "timestamp": 1253931241
+    },
+    {
+      "userId": 212,
+      "movieId": 27904,
+      "tag": "interesting concept - bad execution",
+      "timestamp": 1253931234
+    },
+    {
+      "userId": 212,
+      "movieId": 27904,
+      "tag": "surrealism",
+      "timestamp": 1253931244
+    },
+    {
+      "userId": 212,
+      "movieId": 34405,
+      "tag": "aliens",
+      "timestamp": 1253928597
+    },
+    {
+      "userId": 212,
+      "movieId": 34405,
+      "tag": "black comedy",
+      "timestamp": 1253928590
+    },
+    {
+      "userId": 212,
+      "movieId": 34405,
+      "tag": "Firefly",
+      "timestamp": 1253928585
+    },
+    {
+      "userId": 212,
+      "movieId": 37733,
+      "tag": "disappointing",
+      "timestamp": 1253929514
+    },
+    {
+      "userId": 212,
+      "movieId": 37733,
+      "tag": "overrated",
+      "timestamp": 1253929532
+    },
+    {
+      "userId": 212,
+      "movieId": 37733,
+      "tag": "Viggo Mortensen",
+      "timestamp": 1253929518
+    },
+    {
+      "userId": 212,
+      "movieId": 48394,
+      "tag": "dark",
+      "timestamp": 1218405627
+    },
+    {
+      "userId": 212,
+      "movieId": 48394,
+      "tag": "fairytale",
+      "timestamp": 1218405627
+    },
+    {
+      "userId": 212,
+      "movieId": 60684,
+      "tag": "alternate reality",
+      "timestamp": 1253926526
+    },
+    {
+      "userId": 212,
+      "movieId": 60684,
+      "tag": "diluted version of comic",
+      "timestamp": 1253926511
+    },
+    {
+      "userId": 212,
+      "movieId": 60684,
+      "tag": "dystopia",
+      "timestamp": 1253926517
+    },
+    {
+      "userId": 212,
+      "movieId": 60684,
+      "tag": "stylized",
+      "timestamp": 1253926519
+    },
+    {
+      "userId": 212,
+      "movieId": 63992,
+      "tag": "high school",
+      "timestamp": 1253932469
+    },
+    {
+      "userId": 212,
+      "movieId": 63992,
+      "tag": "Kristen Stewart",
+      "timestamp": 1253932484
+    },
+    {
+      "userId": 212,
+      "movieId": 63992,
+      "tag": "Robert Pattinson",
+      "timestamp": 1253932481
+    },
+    {
+      "userId": 212,
+      "movieId": 63992,
+      "tag": "Teen movie",
+      "timestamp": 1253932459
+    },
+    {
+      "userId": 212,
+      "movieId": 63992,
+      "tag": "Vampire Human Love",
+      "timestamp": 1253932463
+    },
+    {
+      "userId": 212,
+      "movieId": 64957,
+      "tag": "adapted from:book",
+      "timestamp": 1253929184
+    },
+    {
+      "userId": 212,
+      "movieId": 64957,
+      "tag": "Aging Disorder",
+      "timestamp": 1253929189
+    },
+    {
+      "userId": 212,
+      "movieId": 64957,
+      "tag": "Brad Pitt",
+      "timestamp": 1253929141
+    },
+    {
+      "userId": 212,
+      "movieId": 64957,
+      "tag": "cinematography",
+      "timestamp": 1253929177
+    },
+    {
+      "userId": 212,
+      "movieId": 64957,
+      "tag": "drama",
+      "timestamp": 1253929173
+    },
+    {
+      "userId": 212,
+      "movieId": 64957,
+      "tag": "original plot",
+      "timestamp": 1253929180
+    },
+    {
+      "userId": 212,
+      "movieId": 64957,
+      "tag": "slow parts",
+      "timestamp": 1253929162
+    },
+    {
+      "userId": 212,
+      "movieId": 64957,
+      "tag": "touching",
+      "timestamp": 1253929169
+    },
+    {
+      "userId": 212,
+      "movieId": 66097,
+      "tag": "alternate universe",
+      "timestamp": 1253926354
+    },
+    {
+      "userId": 212,
+      "movieId": 66097,
+      "tag": "author:Neil Gaiman",
+      "timestamp": 1253926328
+    },
+    {
+      "userId": 212,
+      "movieId": 66097,
+      "tag": "claymation",
+      "timestamp": 1253926330
+    },
+    {
+      "userId": 212,
+      "movieId": 66097,
+      "tag": "Dakota Fanning",
+      "timestamp": 1253926349
+    },
+    {
+      "userId": 212,
+      "movieId": 66097,
+      "tag": "dark",
+      "timestamp": 1253926337
+    },
+    {
+      "userId": 212,
+      "movieId": 66097,
+      "tag": "fairy tale",
+      "timestamp": 1253926364
+    },
+    {
+      "userId": 212,
+      "movieId": 66097,
+      "tag": "Neil Gaiman",
+      "timestamp": 1253926360
+    },
+    {
+      "userId": 212,
+      "movieId": 66934,
+      "tag": "Captain Hammer",
+      "timestamp": 1253926165
+    },
+    {
+      "userId": 212,
+      "movieId": 66934,
+      "tag": "joss whedon",
+      "timestamp": 1253926158
+    },
+    {
+      "userId": 212,
+      "movieId": 66934,
+      "tag": "mad scientist",
+      "timestamp": 1253926186
+    },
+    {
+      "userId": 212,
+      "movieId": 66934,
+      "tag": "musical",
+      "timestamp": 1253926178
+    },
+    {
+      "userId": 212,
+      "movieId": 66934,
+      "tag": "Nathan Fillion",
+      "timestamp": 1253926182
+    },
+    {
+      "userId": 212,
+      "movieId": 66934,
+      "tag": "Neil Patrick Harris",
+      "timestamp": 1253926160
+    },
+    {
+      "userId": 212,
+      "movieId": 66934,
+      "tag": "parody",
+      "timestamp": 1253926168
+    },
+    {
+      "userId": 212,
+      "movieId": 68157,
+      "tag": "Brad Pitt",
+      "timestamp": 1253926443
+    },
+    {
+      "userId": 212,
+      "movieId": 68157,
+      "tag": "ending",
+      "timestamp": 1253926451
+    },
+    {
+      "userId": 212,
+      "movieId": 68157,
+      "tag": "gratuitous violence",
+      "timestamp": 1253926429
+    },
+    {
+      "userId": 212,
+      "movieId": 68157,
+      "tag": "Quentin Tarantino",
+      "timestamp": 1253926404
+    },
+    {
+      "userId": 212,
+      "movieId": 68157,
+      "tag": "satire",
+      "timestamp": 1253926435
+    },
+    {
+      "userId": 212,
+      "movieId": 68157,
+      "tag": "unusual plot structure",
+      "timestamp": 1253926417
+    },
+    {
+      "userId": 212,
+      "movieId": 68157,
+      "tag": "violence",
+      "timestamp": 1253926426
+    },
+    {
+      "userId": 212,
+      "movieId": 68157,
+      "tag": "World War II",
+      "timestamp": 1253926408
+    },
+    {
+      "userId": 212,
+      "movieId": 68319,
+      "tag": "action",
+      "timestamp": 1253928934
+    },
+    {
+      "userId": 212,
+      "movieId": 68319,
+      "tag": "bad plot",
+      "timestamp": 1253928950
+    },
+    {
+      "userId": 212,
+      "movieId": 68319,
+      "tag": "hugh jackman",
+      "timestamp": 1253928926
+    },
+    {
+      "userId": 212,
+      "movieId": 68319,
+      "tag": "superhero",
+      "timestamp": 1253928935
+    },
+    {
+      "userId": 212,
+      "movieId": 68319,
+      "tag": "too long",
+      "timestamp": 1253928954
+    },
+    {
+      "userId": 212,
+      "movieId": 69526,
+      "tag": "bad plot",
+      "timestamp": 1253929636
+    },
+    {
+      "userId": 212,
+      "movieId": 69526,
+      "tag": "robots",
+      "timestamp": 1253929657
+    },
+    {
+      "userId": 212,
+      "movieId": 69526,
+      "tag": "sufficiently explodey to be good",
+      "timestamp": 1253929639
+    },
+    {
+      "userId": 212,
+      "movieId": 69712,
+      "tag": "Abigail Breslin",
+      "timestamp": 1260688098
+    },
+    {
+      "userId": 212,
+      "movieId": 69712,
+      "tag": "ending",
+      "timestamp": 1260688053
+    },
+    {
+      "userId": 212,
+      "movieId": 69712,
+      "tag": "genuine characters",
+      "timestamp": 1260688086
+    },
+    {
+      "userId": 212,
+      "movieId": 69712,
+      "tag": "Jason Patric",
+      "timestamp": 1260688105
+    },
+    {
+      "userId": 212,
+      "movieId": 71057,
+      "tag": "animation style",
+      "timestamp": 1253926100
+    },
+    {
+      "userId": 219,
+      "movieId": 46970,
+      "tag": "funny",
+      "timestamp": 1156788918
+    },
+    {
+      "userId": 219,
+      "movieId": 46970,
+      "tag": "nascar",
+      "timestamp": 1156788904
+    },
+    {
+      "userId": 219,
+      "movieId": 46970,
+      "tag": "will farell",
+      "timestamp": 1156788913
+    },
+    {
+      "userId": 219,
+      "movieId": 47640,
+      "tag": "beer",
+      "timestamp": 1156788764
+    },
+    {
+      "userId": 219,
+      "movieId": 47640,
+      "tag": "guy movie",
+      "timestamp": 1156788774
+    },
+    {
+      "userId": 255,
+      "movieId": 6985,
+      "tag": "breathtaking",
+      "timestamp": 1237060605
+    },
+    {
+      "userId": 255,
+      "movieId": 7361,
+      "tag": "i'd like to live in this movie",
+      "timestamp": 1237060140
+    },
+    {
+      "userId": 255,
+      "movieId": 44555,
+      "tag": "breathtaking",
+      "timestamp": 1237060235
+    },
+    {
+      "userId": 257,
+      "movieId": 3030,
+      "tag": "akira kurosawa",
+      "timestamp": 1338084833
+    },
+    {
+      "userId": 257,
+      "movieId": 3030,
+      "tag": "black comedy",
+      "timestamp": 1338084822
+    },
+    {
+      "userId": 277,
+      "movieId": 5618,
+      "tag": "anime",
+      "timestamp": 1463916275
+    },
+    {
+      "userId": 277,
+      "movieId": 5618,
+      "tag": "children",
+      "timestamp": 1463916304
+    },
+    {
+      "userId": 277,
+      "movieId": 5618,
+      "tag": "fantasy",
+      "timestamp": 1463916289
+    },
+    {
+      "userId": 277,
+      "movieId": 5971,
+      "tag": "fantasy",
+      "timestamp": 1463916386
+    },
+    {
+      "userId": 277,
+      "movieId": 5971,
+      "tag": "feel-good",
+      "timestamp": 1463916401
+    },
+    {
+      "userId": 277,
+      "movieId": 82461,
+      "tag": "bad acting",
+      "timestamp": 1463916776
+    },
+    {
+      "userId": 277,
+      "movieId": 82461,
+      "tag": "bad plot",
+      "timestamp": 1463916772
+    },
+    {
+      "userId": 277,
+      "movieId": 104283,
+      "tag": "anime",
+      "timestamp": 1463916484
+    },
+    {
+      "userId": 277,
+      "movieId": 132046,
+      "tag": "sci-fi",
+      "timestamp": 1463916817
+    },
+    {
+      "userId": 294,
+      "movieId": 6754,
+      "tag": "vampire",
+      "timestamp": 1138983469
+    },
+    {
+      "userId": 294,
+      "movieId": 8865,
+      "tag": "1940's feel",
+      "timestamp": 1140395930
+    },
+    {
+      "userId": 294,
+      "movieId": 8865,
+      "tag": "unique look",
+      "timestamp": 1140395930
+    },
+    {
+      "userId": 294,
+      "movieId": 36401,
+      "tag": "fairy tales",
+      "timestamp": 1138983064
+    },
+    {
+      "userId": 297,
+      "movieId": 104,
+      "tag": "adam sandler",
+      "timestamp": 1318706504
+    },
+    {
+      "userId": 297,
+      "movieId": 608,
+      "tag": "overrated",
+      "timestamp": 1318706739
+    },
+    {
+      "userId": 297,
+      "movieId": 1103,
+      "tag": "overrated",
+      "timestamp": 1318706182
+    },
+    {
+      "userId": 297,
+      "movieId": 2502,
+      "tag": "that fat nerd is just annoying",
+      "timestamp": 1318706118
+    },
+    {
+      "userId": 297,
+      "movieId": 8528,
+      "tag": "seen it before",
+      "timestamp": 1318706449
+    },
+    {
+      "userId": 297,
+      "movieId": 47640,
+      "tag": "Just stupid",
+      "timestamp": 1318706536
+    },
+    {
+      "userId": 297,
+      "movieId": 52973,
+      "tag": "overrated",
+      "timestamp": 1318706470
+    },
+    {
+      "userId": 297,
+      "movieId": 55820,
+      "tag": "overrated",
+      "timestamp": 1318706705
+    },
+    {
+      "userId": 297,
+      "movieId": 61024,
+      "tag": "Exellent first half",
+      "timestamp": 1318706053
+    },
+    {
+      "userId": 297,
+      "movieId": 61024,
+      "tag": "terrible ending",
+      "timestamp": 1318706042
+    },
+    {
+      "userId": 297,
+      "movieId": 76251,
+      "tag": "Gore!!!",
+      "timestamp": 1318706275
+    },
+    {
+      "userId": 297,
+      "movieId": 76251,
+      "tag": "sort of honest",
+      "timestamp": 1318706296
+    },
+    {
+      "userId": 297,
+      "movieId": 78209,
+      "tag": "Lame everything",
+      "timestamp": 1318706227
+    },
+    {
+      "userId": 313,
+      "movieId": 153,
+      "tag": "Ei muista",
+      "timestamp": 1168879424
+    },
+    {
+      "userId": 313,
+      "movieId": 293,
+      "tag": "Ei muista",
+      "timestamp": 1168878292
+    },
+    {
+      "userId": 313,
+      "movieId": 434,
+      "tag": "Ei muista",
+      "timestamp": 1168879406
+    },
+    {
+      "userId": 313,
+      "movieId": 494,
+      "tag": "Ei muista",
+      "timestamp": 1168878844
+    },
+    {
+      "userId": 313,
+      "movieId": 593,
+      "tag": "Katso Sanna!",
+      "timestamp": 1146476938
+    },
+    {
+      "userId": 313,
+      "movieId": 745,
+      "tag": "Ei muista",
+      "timestamp": 1146476364
+    },
+    {
+      "userId": 313,
+      "movieId": 780,
+      "tag": "Ei muista",
+      "timestamp": 1168878578
+    },
+    {
+      "userId": 313,
+      "movieId": 858,
+      "tag": "Katso Sanna!",
+      "timestamp": 1146476794
+    },
+    {
+      "userId": 313,
+      "movieId": 1036,
+      "tag": "Ei muista",
+      "timestamp": 1168878388
+    },
+    {
+      "userId": 313,
+      "movieId": 1042,
+      "tag": "Katso Sanna!",
+      "timestamp": 1146477133
+    },
+    {
+      "userId": 313,
+      "movieId": 1120,
+      "tag": "Katso Sanna!",
+      "timestamp": 1146477118
+    },
+    {
+      "userId": 313,
+      "movieId": 1200,
+      "tag": "Katso Sanna!",
+      "timestamp": 1146477102
+    },
+    {
+      "userId": 313,
+      "movieId": 1291,
+      "tag": "Ei muista",
+      "timestamp": 1146476308
+    },
+    {
+      "userId": 313,
+      "movieId": 1610,
+      "tag": "Katso Sanna!",
+      "timestamp": 1146476692
+    },
+    {
+      "userId": 313,
+      "movieId": 1617,
+      "tag": "Ei muista",
+      "timestamp": 1168878593
+    },
+    {
+      "userId": 313,
+      "movieId": 2273,
+      "tag": "Ei muista",
+      "timestamp": 1146477049
+    },
+    {
+      "userId": 313,
+      "movieId": 2329,
+      "tag": "Ei muista",
+      "timestamp": 1146477033
+    },
+    {
+      "userId": 313,
+      "movieId": 2600,
+      "tag": "Ei muista",
+      "timestamp": 1168879003
+    },
+    {
+      "userId": 313,
+      "movieId": 2985,
+      "tag": "Ei muista",
+      "timestamp": 1168878743
+    },
+    {
+      "userId": 313,
+      "movieId": 2989,
+      "tag": "Ei muista",
+      "timestamp": 1168878972
+    },
+    {
+      "userId": 313,
+      "movieId": 3160,
+      "tag": "Ei muista",
+      "timestamp": 1168878736
+    },
+    {
+      "userId": 313,
+      "movieId": 3175,
+      "tag": "Ei muista",
+      "timestamp": 1168879647
+    },
+    {
+      "userId": 313,
+      "movieId": 3499,
+      "tag": "Ei muista",
+      "timestamp": 1168878727
+    },
+    {
+      "userId": 313,
+      "movieId": 3793,
+      "tag": "Katso Sanna!",
+      "timestamp": 1146476954
+    },
+    {
+      "userId": 313,
+      "movieId": 3916,
+      "tag": "Ei muista",
+      "timestamp": 1146476265
+    },
+    {
+      "userId": 313,
+      "movieId": 3949,
+      "tag": "Ei muista",
+      "timestamp": 1168878697
+    },
+    {
+      "userId": 313,
+      "movieId": 3994,
+      "tag": "Ei muista",
+      "timestamp": 1168879611
+    },
+    {
+      "userId": 313,
+      "movieId": 4011,
+      "tag": "Ei muista",
+      "timestamp": 1168878363
+    },
+    {
+      "userId": 313,
+      "movieId": 4023,
+      "tag": "ei muista",
+      "timestamp": 1146477341
+    },
+    {
+      "userId": 313,
+      "movieId": 4121,
+      "tag": "Katso Sanna!",
+      "timestamp": 1146477233
+    },
+    {
+      "userId": 313,
+      "movieId": 4223,
+      "tag": "Ei muista",
+      "timestamp": 1146476274
+    },
+    {
+      "userId": 313,
+      "movieId": 4638,
+      "tag": "Ei muista",
+      "timestamp": 1146477217
+    },
+    {
+      "userId": 313,
+      "movieId": 5064,
+      "tag": "Ei muista",
+      "timestamp": 1146476225
+    },
+    {
+      "userId": 313,
+      "movieId": 5602,
+      "tag": "Ei muista",
+      "timestamp": 1168879553
+    },
+    {
+      "userId": 313,
+      "movieId": 6218,
+      "tag": "Ei muista",
+      "timestamp": 1146477184
+    },
+    {
+      "userId": 313,
+      "movieId": 7347,
+      "tag": "Ei muista",
+      "timestamp": 1168879177
+    },
+    {
+      "userId": 313,
+      "movieId": 8781,
+      "tag": "Ei muista",
+      "timestamp": 1168879161
+    },
+    {
+      "userId": 313,
+      "movieId": 44199,
+      "tag": "Ei muista",
+      "timestamp": 1168878406
+    },
+    {
+      "userId": 314,
+      "movieId": 260,
+      "tag": "awesome",
+      "timestamp": 1437338154
+    },
+    {
+      "userId": 314,
+      "movieId": 260,
+      "tag": "awesome soundtrack",
+      "timestamp": 1437338150
+    },
+    {
+      "userId": 314,
+      "movieId": 260,
+      "tag": "jedi",
+      "timestamp": 1437338139
+    },
+    {
+      "userId": 314,
+      "movieId": 260,
+      "tag": "space adventure",
+      "timestamp": 1437338130
+    },
+    {
+      "userId": 346,
+      "movieId": 741,
+      "tag": "anime",
+      "timestamp": 1159734531
+    },
+    {
+      "userId": 346,
+      "movieId": 924,
+      "tag": "boring",
+      "timestamp": 1159734220
+    },
+    {
+      "userId": 346,
+      "movieId": 924,
+      "tag": "slow",
+      "timestamp": 1159734220
+    },
+    {
+      "userId": 346,
+      "movieId": 1036,
+      "tag": "explosions",
+      "timestamp": 1159734488
+    },
+    {
+      "userId": 346,
+      "movieId": 1199,
+      "tag": "dystopia",
+      "timestamp": 1159734421
+    },
+    {
+      "userId": 346,
+      "movieId": 1274,
+      "tag": "anime",
+      "timestamp": 1159734245
+    },
+    {
+      "userId": 346,
+      "movieId": 2019,
+      "tag": "long",
+      "timestamp": 1159734734
+    },
+    {
+      "userId": 346,
+      "movieId": 2571,
+      "tag": "sci-fi",
+      "timestamp": 1159734634
+    },
+    {
+      "userId": 346,
+      "movieId": 2571,
+      "tag": "virtual reality",
+      "timestamp": 1159734636
+    },
+    {
+      "userId": 346,
+      "movieId": 2924,
+      "tag": "martial arts",
+      "timestamp": 1159734502
+    },
+    {
+      "userId": 346,
+      "movieId": 2997,
+      "tag": "interesting",
+      "timestamp": 1159734363
+    },
+    {
+      "userId": 346,
+      "movieId": 3265,
+      "tag": "explosions",
+      "timestamp": 1159734552
+    },
+    {
+      "userId": 346,
+      "movieId": 3265,
+      "tag": "martial arts",
+      "timestamp": 1159734552
+    },
+    {
+      "userId": 346,
+      "movieId": 3996,
+      "tag": "martial arts",
+      "timestamp": 1159734445
+    },
+    {
+      "userId": 346,
+      "movieId": 4993,
+      "tag": "long",
+      "timestamp": 1159734600
+    },
+    {
+      "userId": 346,
+      "movieId": 5782,
+      "tag": "explosions",
+      "timestamp": 1159734683
+    },
+    {
+      "userId": 346,
+      "movieId": 5782,
+      "tag": "interesting",
+      "timestamp": 1159734683
+    },
+    {
+      "userId": 346,
+      "movieId": 5902,
+      "tag": "boring",
+      "timestamp": 1159734233
+    },
+    {
+      "userId": 346,
+      "movieId": 5952,
+      "tag": "boring",
+      "timestamp": 1159734622
+    },
+    {
+      "userId": 346,
+      "movieId": 5952,
+      "tag": "long",
+      "timestamp": 1159734622
+    },
+    {
+      "userId": 346,
+      "movieId": 6350,
+      "tag": "anime",
+      "timestamp": 1159734417
+    },
+    {
+      "userId": 346,
+      "movieId": 6539,
+      "tag": "Johnny Depp",
+      "timestamp": 1159734656
+    },
+    {
+      "userId": 346,
+      "movieId": 6857,
+      "tag": "anime",
+      "timestamp": 1159734652
+    },
+    {
+      "userId": 346,
+      "movieId": 7022,
+      "tag": "explosions",
+      "timestamp": 1159734326
+    },
+    {
+      "userId": 346,
+      "movieId": 7022,
+      "tag": "martial arts",
+      "timestamp": 1159734467
+    },
+    {
+      "userId": 346,
+      "movieId": 7090,
+      "tag": "martial arts",
+      "timestamp": 1159734555
+    },
+    {
+      "userId": 346,
+      "movieId": 7153,
+      "tag": "boring",
+      "timestamp": 1159734608
+    },
+    {
+      "userId": 346,
+      "movieId": 7153,
+      "tag": "long",
+      "timestamp": 1159734608
+    },
+    {
+      "userId": 346,
+      "movieId": 7361,
+      "tag": "interesting",
+      "timestamp": 1159734515
+    },
+    {
+      "userId": 346,
+      "movieId": 7844,
+      "tag": "martial arts",
+      "timestamp": 1159734589
+    },
+    {
+      "userId": 346,
+      "movieId": 8795,
+      "tag": "Long",
+      "timestamp": 1159734165
+    },
+    {
+      "userId": 346,
+      "movieId": 8874,
+      "tag": "comedy",
+      "timestamp": 1159734745
+    },
+    {
+      "userId": 346,
+      "movieId": 8874,
+      "tag": "zombies",
+      "timestamp": 1159734745
+    },
+    {
+      "userId": 346,
+      "movieId": 8961,
+      "tag": "super-hero",
+      "timestamp": 1159734563
+    },
+    {
+      "userId": 346,
+      "movieId": 26554,
+      "tag": "apocalypse",
+      "timestamp": 1159734706
+    },
+    {
+      "userId": 346,
+      "movieId": 26554,
+      "tag": "interesting",
+      "timestamp": 1159734706
+    },
+    {
+      "userId": 346,
+      "movieId": 26585,
+      "tag": "explosions",
+      "timestamp": 1159734379
+    },
+    {
+      "userId": 346,
+      "movieId": 31878,
+      "tag": "comedy",
+      "timestamp": 1159734584
+    },
+    {
+      "userId": 346,
+      "movieId": 31878,
+      "tag": "martial arts",
+      "timestamp": 1159734584
+    },
+    {
+      "userId": 346,
+      "movieId": 31878,
+      "tag": "Stephen Chow",
+      "timestamp": 1159734584
+    },
+    {
+      "userId": 346,
+      "movieId": 33794,
+      "tag": "bad camerawork",
+      "timestamp": 1159734301
+    },
+    {
+      "userId": 346,
+      "movieId": 33794,
+      "tag": "slow",
+      "timestamp": 1159734301
+    },
+    {
+      "userId": 347,
+      "movieId": 1721,
+      "tag": "romance",
+      "timestamp": 1463337171
+    },
+    {
+      "userId": 347,
+      "movieId": 122886,
+      "tag": "space",
+      "timestamp": 1463337217
+    },
+    {
+      "userId": 347,
+      "movieId": 122886,
+      "tag": "star",
+      "timestamp": 1463337213
+    },
+    {
+      "userId": 353,
+      "movieId": 4721,
+      "tag": "As historicaly correct as Germany winning WW2",
+      "timestamp": 1140389056
+    },
+    {
+      "userId": 353,
+      "movieId": 4721,
+      "tag": "but still a fun movie.",
+      "timestamp": 1140389056
+    },
+    {
+      "userId": 353,
+      "movieId": 7376,
+      "tag": "The Rocks \"finest\" work need I say more?",
+      "timestamp": 1140389511
+    },
+    {
+      "userId": 353,
+      "movieId": 31221,
+      "tag": "Try not to mistake this for an episode of Alias",
+      "timestamp": 1140389595
+    },
+    {
+      "userId": 353,
+      "movieId": 32025,
+      "tag": "Mossad",
+      "timestamp": 1142686944
+    },
+    {
+      "userId": 353,
+      "movieId": 35836,
+      "tag": "dumb",
+      "timestamp": 1137217440
+    },
+    {
+      "userId": 364,
+      "movieId": 47,
+      "tag": "biblical",
+      "timestamp": 1444534976
+    },
+    {
+      "userId": 364,
+      "movieId": 47,
+      "tag": "crime",
+      "timestamp": 1444534982
+    },
+    {
+      "userId": 364,
+      "movieId": 47,
+      "tag": "dark",
+      "timestamp": 1444534994
+    },
+    {
+      "userId": 364,
+      "movieId": 47,
+      "tag": "disturbing",
+      "timestamp": 1444534971
+    },
+    {
+      "userId": 364,
+      "movieId": 47,
+      "tag": "greed",
+      "timestamp": 1444534998
+    },
+    {
+      "userId": 364,
+      "movieId": 47,
+      "tag": "horror",
+      "timestamp": 1444534981
+    },
+    {
+      "userId": 364,
+      "movieId": 47,
+      "tag": "serial killer",
+      "timestamp": 1444534961
+    },
+    {
+      "userId": 364,
+      "movieId": 47,
+      "tag": "violent",
+      "timestamp": 1444534985
+    },
+    {
+      "userId": 364,
+      "movieId": 50,
+      "tag": "thriller",
+      "timestamp": 1444534932
+    },
+    {
+      "userId": 364,
+      "movieId": 232,
+      "tag": "aging",
+      "timestamp": 1444531181
+    },
+    {
+      "userId": 364,
+      "movieId": 232,
+      "tag": "Ang Lee",
+      "timestamp": 1444531177
+    },
+    {
+      "userId": 364,
+      "movieId": 232,
+      "tag": "cooking",
+      "timestamp": 1444531178
+    },
+    {
+      "userId": 364,
+      "movieId": 232,
+      "tag": "food",
+      "timestamp": 1444531186
+    },
+    {
+      "userId": 364,
+      "movieId": 232,
+      "tag": "relationships",
+      "timestamp": 1444531173
+    },
+    {
+      "userId": 364,
+      "movieId": 293,
+      "tag": "assassin",
+      "timestamp": 1444534872
+    },
+    {
+      "userId": 364,
+      "movieId": 293,
+      "tag": "hit men",
+      "timestamp": 1444534872
+    },
+    {
+      "userId": 364,
+      "movieId": 293,
+      "tag": "thriller",
+      "timestamp": 1444534887
+    },
+    {
+      "userId": 364,
+      "movieId": 318,
+      "tag": "friendship",
+      "timestamp": 1444529800
+    },
+    {
+      "userId": 364,
+      "movieId": 318,
+      "tag": "Morgan Freeman",
+      "timestamp": 1444529792
+    },
+    {
+      "userId": 364,
+      "movieId": 318,
+      "tag": "narrated",
+      "timestamp": 1444529829
+    },
+    {
+      "userId": 364,
+      "movieId": 318,
+      "tag": "prison",
+      "timestamp": 1444529824
+    },
+    {
+      "userId": 364,
+      "movieId": 318,
+      "tag": "prison escape",
+      "timestamp": 1444529820
+    },
+    {
+      "userId": 364,
+      "movieId": 318,
+      "tag": "revenge",
+      "timestamp": 1444529816
+    },
+    {
+      "userId": 364,
+      "movieId": 318,
+      "tag": "Tim Robbins",
+      "timestamp": 1444529804
+    },
+    {
+      "userId": 364,
+      "movieId": 318,
+      "tag": "wrongful imprisonment",
+      "timestamp": 1444529809
+    },
+    {
+      "userId": 364,
+      "movieId": 1176,
+      "tag": "imaginative",
+      "timestamp": 1444528969
+    },
+    {
+      "userId": 364,
+      "movieId": 1176,
+      "tag": "intellectual",
+      "timestamp": 1444528955
+    },
+    {
+      "userId": 364,
+      "movieId": 1176,
+      "tag": "Irene Jacob",
+      "timestamp": 1444528944
+    },
+    {
+      "userId": 364,
+      "movieId": 1176,
+      "tag": "Krzysztof Kieslowski",
+      "timestamp": 1444528941
+    },
+    {
+      "userId": 364,
+      "movieId": 1176,
+      "tag": "lyrical",
+      "timestamp": 1444528947
+    },
+    {
+      "userId": 364,
+      "movieId": 1210,
+      "tag": "action",
+      "timestamp": 1444529881
+    },
+    {
+      "userId": 364,
+      "movieId": 1210,
+      "tag": "aliens",
+      "timestamp": 1444529879
+    },
+    {
+      "userId": 364,
+      "movieId": 1210,
+      "tag": "George Lucas",
+      "timestamp": 1444529892
+    },
+    {
+      "userId": 364,
+      "movieId": 1210,
+      "tag": "Harrison Ford",
+      "timestamp": 1444529867
+    },
+    {
+      "userId": 364,
+      "movieId": 1210,
+      "tag": "sci-fi",
+      "timestamp": 1444529889
+    },
+    {
+      "userId": 364,
+      "movieId": 1210,
+      "tag": "sequel",
+      "timestamp": 1444529879
+    },
+    {
+      "userId": 364,
+      "movieId": 1210,
+      "tag": "space",
+      "timestamp": 1444529864
+    },
+    {
+      "userId": 364,
+      "movieId": 1210,
+      "tag": "Star Wars",
+      "timestamp": 1444529869
+    },
+    {
+      "userId": 364,
+      "movieId": 1210,
+      "tag": "starship pilots",
+      "timestamp": 1444529899
+    },
+    {
+      "userId": 364,
+      "movieId": 1210,
+      "tag": "war",
+      "timestamp": 1444529884
+    },
+    {
+      "userId": 364,
+      "movieId": 1265,
+      "tag": "alternate reality",
+      "timestamp": 1444530190
+    },
+    {
+      "userId": 364,
+      "movieId": 1265,
+      "tag": "Bill Murray",
+      "timestamp": 1444530207
+    },
+    {
+      "userId": 364,
+      "movieId": 1265,
+      "tag": "character development",
+      "timestamp": 1444530216
+    },
+    {
+      "userId": 364,
+      "movieId": 1265,
+      "tag": "comedy",
+      "timestamp": 1444530195
+    },
+    {
+      "userId": 364,
+      "movieId": 1265,
+      "tag": "existentialism",
+      "timestamp": 1444530199
+    },
+    {
+      "userId": 364,
+      "movieId": 1265,
+      "tag": "feel-good",
+      "timestamp": 1444530209
+    },
+    {
+      "userId": 364,
+      "movieId": 1265,
+      "tag": "funny",
+      "timestamp": 1444530200
+    },
+    {
+      "userId": 364,
+      "movieId": 1265,
+      "tag": "love",
+      "timestamp": 1444530219
+    },
+    {
+      "userId": 364,
+      "movieId": 1265,
+      "tag": "romantic",
+      "timestamp": 1444530228
+    },
+    {
+      "userId": 364,
+      "movieId": 1265,
+      "tag": "self discovery",
+      "timestamp": 1444530203
+    },
+    {
+      "userId": 364,
+      "movieId": 1732,
+      "tag": "great dialogue",
+      "timestamp": 1444535166
+    },
+    {
+      "userId": 364,
+      "movieId": 1732,
+      "tag": "Jeff Bridges",
+      "timestamp": 1444535201
+    },
+    {
+      "userId": 364,
+      "movieId": 1732,
+      "tag": "Nudity (Full Frontal)",
+      "timestamp": 1444535170
+    },
+    {
+      "userId": 364,
+      "movieId": 1732,
+      "tag": "off-beat comedy",
+      "timestamp": 1444535205
+    },
+    {
+      "userId": 364,
+      "movieId": 1732,
+      "tag": "quirky",
+      "timestamp": 1444535198
+    },
+    {
+      "userId": 364,
+      "movieId": 1732,
+      "tag": "satirical",
+      "timestamp": 1444535172
+    },
+    {
+      "userId": 364,
+      "movieId": 1732,
+      "tag": "Steve Buscemi",
+      "timestamp": 1444535164
+    },
+    {
+      "userId": 364,
+      "movieId": 2068,
+      "tag": "coming of age",
+      "timestamp": 1444530920
+    },
+    {
+      "userId": 364,
+      "movieId": 2068,
+      "tag": "funny",
+      "timestamp": 1444530913
+    },
+    {
+      "userId": 364,
+      "movieId": 2424,
+      "tag": "bookshop",
+      "timestamp": 1444530521
+    },
+    {
+      "userId": 364,
+      "movieId": 2424,
+      "tag": "happy ending",
+      "timestamp": 1444530524
+    },
+    {
+      "userId": 364,
+      "movieId": 2424,
+      "tag": "Meg Ryan",
+      "timestamp": 1444530516
+    },
+    {
+      "userId": 364,
+      "movieId": 2424,
+      "tag": "Romance",
+      "timestamp": 1444530517
+    },
+    {
+      "userId": 364,
+      "movieId": 2424,
+      "tag": "romantic comedy",
+      "timestamp": 1444530529
+    },
+    {
+      "userId": 364,
+      "movieId": 2424,
+      "tag": "Tom Hanks",
+      "timestamp": 1444530527
+    },
+    {
+      "userId": 364,
+      "movieId": 3948,
+      "tag": "awkward",
+      "timestamp": 1444529225
+    },
+    {
+      "userId": 364,
+      "movieId": 4018,
+      "tag": "creative",
+      "timestamp": 1444529752
+    },
+    {
+      "userId": 364,
+      "movieId": 4018,
+      "tag": "funny",
+      "timestamp": 1444529739
+    },
+    {
+      "userId": 364,
+      "movieId": 4018,
+      "tag": "Helen Hunt",
+      "timestamp": 1444529729
+    },
+    {
+      "userId": 364,
+      "movieId": 4018,
+      "tag": "hilarious",
+      "timestamp": 1444529746
+    },
+    {
+      "userId": 364,
+      "movieId": 4018,
+      "tag": "Mel Gibson",
+      "timestamp": 1444529756
+    },
+    {
+      "userId": 364,
+      "movieId": 4018,
+      "tag": "stereotypes",
+      "timestamp": 1444529760
+    },
+    {
+      "userId": 364,
+      "movieId": 4973,
+      "tag": "beautifully filmed",
+      "timestamp": 1444528866
+    },
+    {
+      "userId": 364,
+      "movieId": 4973,
+      "tag": "comedy",
+      "timestamp": 1444528870
+    },
+    {
+      "userId": 364,
+      "movieId": 4973,
+      "tag": "feel-good",
+      "timestamp": 1444528900
+    },
+    {
+      "userId": 364,
+      "movieId": 4973,
+      "tag": "imagination",
+      "timestamp": 1444528880
+    },
+    {
+      "userId": 364,
+      "movieId": 4973,
+      "tag": "love",
+      "timestamp": 1444528875
+    },
+    {
+      "userId": 364,
+      "movieId": 4973,
+      "tag": "notable soundtrack",
+      "timestamp": 1444528857
+    },
+    {
+      "userId": 364,
+      "movieId": 4973,
+      "tag": "quirky",
+      "timestamp": 1444528852
+    },
+    {
+      "userId": 364,
+      "movieId": 4973,
+      "tag": "whimsical",
+      "timestamp": 1444528860
+    },
+    {
+      "userId": 364,
+      "movieId": 5299,
+      "tag": "comedy",
+      "timestamp": 1444529040
+    },
+    {
+      "userId": 364,
+      "movieId": 5299,
+      "tag": "family",
+      "timestamp": 1444529044
+    },
+    {
+      "userId": 364,
+      "movieId": 5299,
+      "tag": "funny",
+      "timestamp": 1444529038
+    },
+    {
+      "userId": 364,
+      "movieId": 6350,
+      "tag": "aviation",
+      "timestamp": 1444531651
+    },
+    {
+      "userId": 364,
+      "movieId": 6350,
+      "tag": "funny",
+      "timestamp": 1444531664
+    },
+    {
+      "userId": 364,
+      "movieId": 6350,
+      "tag": "imagination",
+      "timestamp": 1444531644
+    },
+    {
+      "userId": 364,
+      "movieId": 6350,
+      "tag": "Studio Ghibli",
+      "timestamp": 1444531642
+    },
+    {
+      "userId": 364,
+      "movieId": 6350,
+      "tag": "visually appealing",
+      "timestamp": 1444531647
+    },
+    {
+      "userId": 364,
+      "movieId": 6539,
+      "tag": "comedy",
+      "timestamp": 1444529977
+    },
+    {
+      "userId": 364,
+      "movieId": 6539,
+      "tag": "Disney",
+      "timestamp": 1444529957
+    },
+    {
+      "userId": 364,
+      "movieId": 6539,
+      "tag": "funny",
+      "timestamp": 1444529960
+    },
+    {
+      "userId": 364,
+      "movieId": 6539,
+      "tag": "johnny depp",
+      "timestamp": 1444529962
+    },
+    {
+      "userId": 364,
+      "movieId": 6539,
+      "tag": "magic",
+      "timestamp": 1444529965
+    },
+    {
+      "userId": 364,
+      "movieId": 6539,
+      "tag": "Orlando Bloom",
+      "timestamp": 1444529978
+    },
+    {
+      "userId": 364,
+      "movieId": 6539,
+      "tag": "pirates",
+      "timestamp": 1444529987
+    },
+    {
+      "userId": 364,
+      "movieId": 6539,
+      "tag": "sword fight",
+      "timestamp": 1444529953
+    },
+    {
+      "userId": 364,
+      "movieId": 7161,
+      "tag": "family",
+      "timestamp": 1444535334
+    },
+    {
+      "userId": 364,
+      "movieId": 7161,
+      "tag": "funny",
+      "timestamp": 1444535340
+    },
+    {
+      "userId": 364,
+      "movieId": 7161,
+      "tag": "Steve Martin",
+      "timestamp": 1444535326
+    },
+    {
+      "userId": 364,
+      "movieId": 8464,
+      "tag": "american idiocy",
+      "timestamp": 1444531783
+    },
+    {
+      "userId": 364,
+      "movieId": 8464,
+      "tag": "documentary",
+      "timestamp": 1444531780
+    },
+    {
+      "userId": 364,
+      "movieId": 8464,
+      "tag": "social criticism",
+      "timestamp": 1444531787
+    },
+    {
+      "userId": 364,
+      "movieId": 26614,
+      "tag": "thriller",
+      "timestamp": 1444534834
+    },
+    {
+      "userId": 364,
+      "movieId": 26662,
+      "tag": "anime",
+      "timestamp": 1444530775
+    },
+    {
+      "userId": 364,
+      "movieId": 26662,
+      "tag": "Hayao Miyazaki",
+      "timestamp": 1444530771
+    },
+    {
+      "userId": 364,
+      "movieId": 26662,
+      "tag": "Studio Ghibli",
+      "timestamp": 1444530778
+    },
+    {
+      "userId": 364,
+      "movieId": 27611,
+      "tag": "military",
+      "timestamp": 1444534772
+    },
+    {
+      "userId": 364,
+      "movieId": 27611,
+      "tag": "sci-fi",
+      "timestamp": 1444534765
+    },
+    {
+      "userId": 364,
+      "movieId": 34321,
+      "tag": "Billy Bob Thornton",
+      "timestamp": 1444531424
+    },
+    {
+      "userId": 364,
+      "movieId": 34321,
+      "tag": "comedy",
+      "timestamp": 1444531438
+    },
+    {
+      "userId": 364,
+      "movieId": 34321,
+      "tag": "cursing",
+      "timestamp": 1444531450
+    },
+    {
+      "userId": 364,
+      "movieId": 34321,
+      "tag": "funny",
+      "timestamp": 1444531430
+    },
+    {
+      "userId": 364,
+      "movieId": 34321,
+      "tag": "redemption",
+      "timestamp": 1444531445
+    },
+    {
+      "userId": 364,
+      "movieId": 46578,
+      "tag": "beauty pageant",
+      "timestamp": 1444529380
+    },
+    {
+      "userId": 364,
+      "movieId": 46578,
+      "tag": "family",
+      "timestamp": 1444529368
+    },
+    {
+      "userId": 364,
+      "movieId": 46578,
+      "tag": "independent film",
+      "timestamp": 1444529351
+    },
+    {
+      "userId": 364,
+      "movieId": 46578,
+      "tag": "off-beat comedy",
+      "timestamp": 1444529354
+    },
+    {
+      "userId": 364,
+      "movieId": 46578,
+      "tag": "quirky",
+      "timestamp": 1444529369
+    },
+    {
+      "userId": 364,
+      "movieId": 46578,
+      "tag": "road trip",
+      "timestamp": 1444529384
+    },
+    {
+      "userId": 364,
+      "movieId": 46578,
+      "tag": "satire",
+      "timestamp": 1444529372
+    },
+    {
+      "userId": 364,
+      "movieId": 46578,
+      "tag": "steve carell",
+      "timestamp": 1444529375
+    },
+    {
+      "userId": 364,
+      "movieId": 56367,
+      "tag": "comedy",
+      "timestamp": 1444535241
+    },
+    {
+      "userId": 364,
+      "movieId": 56367,
+      "tag": "indie",
+      "timestamp": 1444535247
+    },
+    {
+      "userId": 364,
+      "movieId": 56367,
+      "tag": "pregnancy",
+      "timestamp": 1444535236
+    },
+    {
+      "userId": 364,
+      "movieId": 56367,
+      "tag": "teen pregnancy",
+      "timestamp": 1444535244
+    },
+    {
+      "userId": 364,
+      "movieId": 56367,
+      "tag": "witty",
+      "timestamp": 1444535238
+    },
+    {
+      "userId": 364,
+      "movieId": 64957,
+      "tag": "Aging",
+      "timestamp": 1444531050
+    },
+    {
+      "userId": 364,
+      "movieId": 64957,
+      "tag": "Brad Pitt",
+      "timestamp": 1444531041
+    },
+    {
+      "userId": 364,
+      "movieId": 64957,
+      "tag": "original plot",
+      "timestamp": 1444531048
+    },
+    {
+      "userId": 364,
+      "movieId": 64957,
+      "tag": "philosophical",
+      "timestamp": 1444531044
+    },
+    {
+      "userId": 364,
+      "movieId": 66934,
+      "tag": "comedy",
+      "timestamp": 1444530699
+    },
+    {
+      "userId": 364,
+      "movieId": 66934,
+      "tag": "great soundtrack",
+      "timestamp": 1444530694
+    },
+    {
+      "userId": 364,
+      "movieId": 66934,
+      "tag": "mad scientist",
+      "timestamp": 1444530688
+    },
+    {
+      "userId": 364,
+      "movieId": 66934,
+      "tag": "Neil Patrick Harris",
+      "timestamp": 1444530691
+    },
+    {
+      "userId": 364,
+      "movieId": 66934,
+      "tag": "parody",
+      "timestamp": 1444530697
+    },
+    {
+      "userId": 364,
+      "movieId": 68358,
+      "tag": "sci fi",
+      "timestamp": 1444530041
+    },
+    {
+      "userId": 364,
+      "movieId": 68358,
+      "tag": "spock",
+      "timestamp": 1444530038
+    },
+    {
+      "userId": 364,
+      "movieId": 68358,
+      "tag": "Star Trek",
+      "timestamp": 1444530030
+    },
+    {
+      "userId": 364,
+      "movieId": 68358,
+      "tag": "teleportation",
+      "timestamp": 1444530045
+    },
+    {
+      "userId": 364,
+      "movieId": 72998,
+      "tag": "aliens",
+      "timestamp": 1444529449
+    },
+    {
+      "userId": 364,
+      "movieId": 72998,
+      "tag": "graphic design",
+      "timestamp": 1444529463
+    },
+    {
+      "userId": 364,
+      "movieId": 72998,
+      "tag": "predictable",
+      "timestamp": 1444529440
+    },
+    {
+      "userId": 364,
+      "movieId": 72998,
+      "tag": "racism",
+      "timestamp": 1444529457
+    },
+    {
+      "userId": 364,
+      "movieId": 72998,
+      "tag": "sci-fi",
+      "timestamp": 1444529439
+    },
+    {
+      "userId": 364,
+      "movieId": 93040,
+      "tag": "drama",
+      "timestamp": 1444530864
+    },
+    {
+      "userId": 364,
+      "movieId": 93040,
+      "tag": "historical",
+      "timestamp": 1444530873
+    },
+    {
+      "userId": 364,
+      "movieId": 93040,
+      "tag": "interesting",
+      "timestamp": 1444530861
+    },
+    {
+      "userId": 364,
+      "movieId": 95441,
+      "tag": "cocaine",
+      "timestamp": 1444529273
+    },
+    {
+      "userId": 364,
+      "movieId": 95441,
+      "tag": "crude humor",
+      "timestamp": 1444529258
+    },
+    {
+      "userId": 364,
+      "movieId": 95441,
+      "tag": "directorial debut",
+      "timestamp": 1444529282
+    },
+    {
+      "userId": 364,
+      "movieId": 95441,
+      "tag": "Mark Wahlberg",
+      "timestamp": 1444529284
+    },
+    {
+      "userId": 364,
+      "movieId": 97938,
+      "tag": "Ang Lee",
+      "timestamp": 1444531076
+    },
+    {
+      "userId": 364,
+      "movieId": 97938,
+      "tag": "India",
+      "timestamp": 1444531086
+    },
+    {
+      "userId": 364,
+      "movieId": 97938,
+      "tag": "ocean",
+      "timestamp": 1444531083
+    },
+    {
+      "userId": 364,
+      "movieId": 97938,
+      "tag": "visually appealing",
+      "timestamp": 1444531077
+    },
+    {
+      "userId": 364,
+      "movieId": 106696,
+      "tag": "Disney",
+      "timestamp": 1444530267
+    },
+    {
+      "userId": 364,
+      "movieId": 106696,
+      "tag": "feminist",
+      "timestamp": 1444530281
+    },
+    {
+      "userId": 364,
+      "movieId": 106696,
+      "tag": "musical",
+      "timestamp": 1444530270
+    },
+    {
+      "userId": 364,
+      "movieId": 106696,
+      "tag": "storyline",
+      "timestamp": 1444530270
+    },
+    {
+      "userId": 364,
+      "movieId": 109249,
+      "tag": "beautiful scenery",
+      "timestamp": 1444529645
+    },
+    {
+      "userId": 364,
+      "movieId": 109249,
+      "tag": "coming of age",
+      "timestamp": 1444529671
+    },
+    {
+      "userId": 364,
+      "movieId": 109249,
+      "tag": "dark humor",
+      "timestamp": 1444529660
+    },
+    {
+      "userId": 364,
+      "movieId": 109249,
+      "tag": "Fernando E. Solanas",
+      "timestamp": 1444529608
+    },
+    {
+      "userId": 364,
+      "movieId": 109249,
+      "tag": "imaginative",
+      "timestamp": 1444529635
+    },
+    {
+      "userId": 364,
+      "movieId": 109249,
+      "tag": "quirky",
+      "timestamp": 1444529613
+    },
+    {
+      "userId": 364,
+      "movieId": 109249,
+      "tag": "whimsical",
+      "timestamp": 1444529629
+    },
+    {
+      "userId": 364,
+      "movieId": 109374,
+      "tag": "amazing storytelling",
+      "timestamp": 1444529104
+    },
+    {
+      "userId": 364,
+      "movieId": 109374,
+      "tag": "Bill Murray",
+      "timestamp": 1444529124
+    },
+    {
+      "userId": 364,
+      "movieId": 109374,
+      "tag": "cinematography",
+      "timestamp": 1444529143
+    },
+    {
+      "userId": 364,
+      "movieId": 109374,
+      "tag": "eastern europe",
+      "timestamp": 1444529119
+    },
+    {
+      "userId": 364,
+      "movieId": 109374,
+      "tag": "europe",
+      "timestamp": 1444529115
+    },
+    {
+      "userId": 364,
+      "movieId": 109374,
+      "tag": "historical",
+      "timestamp": 1444529139
+    },
+    {
+      "userId": 364,
+      "movieId": 109374,
+      "tag": "on the run",
+      "timestamp": 1444529148
+    },
+    {
+      "userId": 364,
+      "movieId": 109374,
+      "tag": "quirky",
+      "timestamp": 1444529109
+    },
+    {
+      "userId": 364,
+      "movieId": 115617,
+      "tag": "comedy",
+      "timestamp": 1444530392
+    },
+    {
+      "userId": 364,
+      "movieId": 115617,
+      "tag": "Coming of Age",
+      "timestamp": 1444530417
+    },
+    {
+      "userId": 364,
+      "movieId": 115617,
+      "tag": "family",
+      "timestamp": 1444530402
+    },
+    {
+      "userId": 364,
+      "movieId": 115617,
+      "tag": "friends",
+      "timestamp": 1444530410
+    },
+    {
+      "userId": 364,
+      "movieId": 115617,
+      "tag": "funny",
+      "timestamp": 1444530394
+    },
+    {
+      "userId": 364,
+      "movieId": 115617,
+      "tag": "happy ending",
+      "timestamp": 1444530413
+    },
+    {
+      "userId": 364,
+      "movieId": 115617,
+      "tag": "heartwarming",
+      "timestamp": 1444528813
+    },
+    {
+      "userId": 364,
+      "movieId": 115617,
+      "tag": "inspiring",
+      "timestamp": 1444530404
+    },
+    {
+      "userId": 364,
+      "movieId": 115617,
+      "tag": "japanese influence",
+      "timestamp": 1444528772
+    },
+    {
+      "userId": 364,
+      "movieId": 115617,
+      "tag": "pixar",
+      "timestamp": 1444530397
+    },
+    {
+      "userId": 364,
+      "movieId": 115617,
+      "tag": "technology",
+      "timestamp": 1444528781
+    },
+    {
+      "userId": 364,
+      "movieId": 118997,
+      "tag": "comedy",
+      "timestamp": 1444530159
+    },
+    {
+      "userId": 364,
+      "movieId": 118997,
+      "tag": "fairy tale",
+      "timestamp": 1444530100
+    },
+    {
+      "userId": 364,
+      "movieId": 118997,
+      "tag": "funny",
+      "timestamp": 1444530106
+    },
+    {
+      "userId": 364,
+      "movieId": 118997,
+      "tag": "great soundtrack",
+      "timestamp": 1444530127
+    },
+    {
+      "userId": 364,
+      "movieId": 118997,
+      "tag": "imaginative",
+      "timestamp": 1444530113
+    },
+    {
+      "userId": 364,
+      "movieId": 118997,
+      "tag": "meryl streep",
+      "timestamp": 1444530142
+    },
+    {
+      "userId": 364,
+      "movieId": 118997,
+      "tag": "musical",
+      "timestamp": 1444530098
+    },
+    {
+      "userId": 364,
+      "movieId": 134853,
+      "tag": "coming of age",
+      "timestamp": 1444530618
+    },
+    {
+      "userId": 364,
+      "movieId": 134853,
+      "tag": "creative",
+      "timestamp": 1444530620
+    },
+    {
+      "userId": 364,
+      "movieId": 134853,
+      "tag": "happiness",
+      "timestamp": 1444530631
+    },
+    {
+      "userId": 364,
+      "movieId": 134853,
+      "tag": "imaginative",
+      "timestamp": 1444530628
+    },
+    {
+      "userId": 364,
+      "movieId": 134853,
+      "tag": "Pixar",
+      "timestamp": 1444530633
+    },
+    {
+      "userId": 377,
+      "movieId": 54290,
+      "tag": "Why the terrorists hate us",
+      "timestamp": 1187054169
+    },
+    {
+      "userId": 380,
+      "movieId": 40614,
+      "tag": "predictable",
+      "timestamp": 1148077862
+    },
+    {
+      "userId": 402,
+      "movieId": 260,
+      "tag": "coming of age",
+      "timestamp": 1443393648
+    },
+    {
+      "userId": 402,
+      "movieId": 260,
+      "tag": "space epic, science fiction, hero's journey",
+      "timestamp": 1443393664
+    },
+    {
+      "userId": 423,
+      "movieId": 111,
+      "tag": "cult film",
+      "timestamp": 1354033605
+    },
+    {
+      "userId": 423,
+      "movieId": 111,
+      "tag": "Martin Scorsese",
+      "timestamp": 1354033608
+    },
+    {
+      "userId": 423,
+      "movieId": 111,
+      "tag": "social commentary",
+      "timestamp": 1354033602
+    },
+    {
+      "userId": 423,
+      "movieId": 247,
+      "tag": "stylized",
+      "timestamp": 1353702088
+    },
+    {
+      "userId": 423,
+      "movieId": 247,
+      "tag": "surreal",
+      "timestamp": 1353702083
+    },
+    {
+      "userId": 423,
+      "movieId": 247,
+      "tag": "surrealism",
+      "timestamp": 1353702082
+    },
+    {
+      "userId": 423,
+      "movieId": 247,
+      "tag": "visceral",
+      "timestamp": 1353702078
+    },
+    {
+      "userId": 423,
+      "movieId": 745,
+      "tag": "animation",
+      "timestamp": 1354033746
+    },
+    {
+      "userId": 423,
+      "movieId": 1079,
+      "tag": "dark comedy",
+      "timestamp": 1353703178
+    },
+    {
+      "userId": 423,
+      "movieId": 1079,
+      "tag": "dark humor",
+      "timestamp": 1353703182
+    },
+    {
+      "userId": 423,
+      "movieId": 1079,
+      "tag": "John Cleese",
+      "timestamp": 1353703171
+    },
+    {
+      "userId": 423,
+      "movieId": 1079,
+      "tag": "quirky",
+      "timestamp": 1353703185
+    },
+    {
+      "userId": 423,
+      "movieId": 1080,
+      "tag": "Monty Python",
+      "timestamp": 1354033667
+    },
+    {
+      "userId": 423,
+      "movieId": 1089,
+      "tag": "nonlinear",
+      "timestamp": 1354033640
+    },
+    {
+      "userId": 423,
+      "movieId": 1089,
+      "tag": "organized crime",
+      "timestamp": 1354033636
+    },
+    {
+      "userId": 423,
+      "movieId": 1089,
+      "tag": "Quentin Tarantino",
+      "timestamp": 1354033638
+    },
+    {
+      "userId": 423,
+      "movieId": 1219,
+      "tag": "Alfred Hitchcock",
+      "timestamp": 1354033644
+    },
+    {
+      "userId": 423,
+      "movieId": 1219,
+      "tag": "psychology",
+      "timestamp": 1354033646
+    },
+    {
+      "userId": 423,
+      "movieId": 1256,
+      "tag": "Marx Brothers",
+      "timestamp": 1354033718
+    },
+    {
+      "userId": 423,
+      "movieId": 1258,
+      "tag": "cult film",
+      "timestamp": 1354033633
+    },
+    {
+      "userId": 423,
+      "movieId": 1258,
+      "tag": "psychology",
+      "timestamp": 1354033630
+    },
+    {
+      "userId": 423,
+      "movieId": 1729,
+      "tag": "dark comedy",
+      "timestamp": 1354033685
+    },
+    {
+      "userId": 423,
+      "movieId": 2288,
+      "tag": "disturbing",
+      "timestamp": 1354033600
+    },
+    {
+      "userId": 423,
+      "movieId": 2529,
+      "tag": "post-apocalyptic",
+      "timestamp": 1354033650
+    },
+    {
+      "userId": 423,
+      "movieId": 2529,
+      "tag": "twist ending",
+      "timestamp": 1354033653
+    },
+    {
+      "userId": 423,
+      "movieId": 3030,
+      "tag": "atmospheric",
+      "timestamp": 1354033596
+    },
+    {
+      "userId": 423,
+      "movieId": 3546,
+      "tag": "insanity",
+      "timestamp": 1353702162
+    },
+    {
+      "userId": 423,
+      "movieId": 3546,
+      "tag": "psychological thriller",
+      "timestamp": 1353702155
+    },
+    {
+      "userId": 423,
+      "movieId": 5618,
+      "tag": "atmospheric",
+      "timestamp": 1354033628
+    },
+    {
+      "userId": 423,
+      "movieId": 5618,
+      "tag": "surreal",
+      "timestamp": 1354033624
+    },
+    {
+      "userId": 423,
+      "movieId": 5662,
+      "tag": "Dave Foley",
+      "timestamp": 1354033569
+    },
+    {
+      "userId": 423,
+      "movieId": 6287,
+      "tag": "Adam Sandler",
+      "timestamp": 1354044970
+    },
+    {
+      "userId": 423,
+      "movieId": 6713,
+      "tag": "Satoshi Kon",
+      "timestamp": 1354033681
+    },
+    {
+      "userId": 423,
+      "movieId": 8188,
+      "tag": "elegant",
+      "timestamp": 1353701935
+    },
+    {
+      "userId": 423,
+      "movieId": 27592,
+      "tag": "stylized",
+      "timestamp": 1354033620
+    },
+    {
+      "userId": 423,
+      "movieId": 27592,
+      "tag": "violent",
+      "timestamp": 1354033611
+    },
+    {
+      "userId": 423,
+      "movieId": 27773,
+      "tag": "depressing",
+      "timestamp": 1353702390
+    },
+    {
+      "userId": 423,
+      "movieId": 27773,
+      "tag": "disturbing",
+      "timestamp": 1353702357
+    },
+    {
+      "userId": 423,
+      "movieId": 27773,
+      "tag": "hallucinatory",
+      "timestamp": 1353702345
+    },
+    {
+      "userId": 423,
+      "movieId": 27773,
+      "tag": "paranoid",
+      "timestamp": 1353702396
+    },
+    {
+      "userId": 423,
+      "movieId": 27773,
+      "tag": "revenge",
+      "timestamp": 1353702393
+    },
+    {
+      "userId": 423,
+      "movieId": 27773,
+      "tag": "stylized",
+      "timestamp": 1353702395
+    },
+    {
+      "userId": 423,
+      "movieId": 27773,
+      "tag": "twist ending",
+      "timestamp": 1353702400
+    },
+    {
+      "userId": 423,
+      "movieId": 27773,
+      "tag": "vengeance",
+      "timestamp": 1353702404
+    },
+    {
+      "userId": 423,
+      "movieId": 30745,
+      "tag": "Takashi Miike",
+      "timestamp": 1354033711
+    },
+    {
+      "userId": 423,
+      "movieId": 31658,
+      "tag": "Studio Ghibli",
+      "timestamp": 1354033715
+    },
+    {
+      "userId": 423,
+      "movieId": 52885,
+      "tag": "anime",
+      "timestamp": 1354033657
+    },
+    {
+      "userId": 423,
+      "movieId": 55820,
+      "tag": "coen brothers",
+      "timestamp": 1354033663
+    },
+    {
+      "userId": 423,
+      "movieId": 58559,
+      "tag": "Batman",
+      "timestamp": 1354033727
+    },
+    {
+      "userId": 423,
+      "movieId": 67997,
+      "tag": "british",
+      "timestamp": 1354033698
+    },
+    {
+      "userId": 423,
+      "movieId": 67997,
+      "tag": "politics",
+      "timestamp": 1354033700
+    },
+    {
+      "userId": 423,
+      "movieId": 67997,
+      "tag": "satire",
+      "timestamp": 1354033695
+    },
+    {
+      "userId": 431,
+      "movieId": 5,
+      "tag": "steve martin",
+      "timestamp": 1140455432
+    },
+    {
+      "userId": 431,
+      "movieId": 150,
+      "tag": "tom hanks",
+      "timestamp": 1165548454
+    },
+    {
+      "userId": 431,
+      "movieId": 186,
+      "tag": "hugh grant",
+      "timestamp": 1140455419
+    },
+    {
+      "userId": 431,
+      "movieId": 215,
+      "tag": "ethan hawke",
+      "timestamp": 1165548716
+    },
+    {
+      "userId": 431,
+      "movieId": 236,
+      "tag": "meg ryan",
+      "timestamp": 1140455397
+    },
+    {
+      "userId": 431,
+      "movieId": 246,
+      "tag": "school",
+      "timestamp": 1140455370
+    },
+    {
+      "userId": 431,
+      "movieId": 260,
+      "tag": "classic",
+      "timestamp": 1140454408
+    },
+    {
+      "userId": 431,
+      "movieId": 300,
+      "tag": "Ralph Fiennes",
+      "timestamp": 1165548551
+    },
+    {
+      "userId": 431,
+      "movieId": 318,
+      "tag": "Phenomenal!",
+      "timestamp": 1140454312
+    },
+    {
+      "userId": 431,
+      "movieId": 337,
+      "tag": "Johnny Depp***",
+      "timestamp": 1140455226
+    },
+    {
+      "userId": 431,
+      "movieId": 350,
+      "tag": "overrated",
+      "timestamp": 1140455303
+    },
+    {
+      "userId": 431,
+      "movieId": 357,
+      "tag": "didn't get it",
+      "timestamp": 1140455255
+    },
+    {
+      "userId": 431,
+      "movieId": 377,
+      "tag": "Sandra Bullock",
+      "timestamp": 1140454879
+    },
+    {
+      "userId": 431,
+      "movieId": 520,
+      "tag": "very funny!",
+      "timestamp": 1140454299
+    },
+    {
+      "userId": 431,
+      "movieId": 529,
+      "tag": "jodi foster",
+      "timestamp": 1140455238
+    },
+    {
+      "userId": 431,
+      "movieId": 587,
+      "tag": "sweet",
+      "timestamp": 1140455292
+    },
+    {
+      "userId": 431,
+      "movieId": 628,
+      "tag": "edward norton",
+      "timestamp": 1140455195
+    },
+    {
+      "userId": 431,
+      "movieId": 661,
+      "tag": "creepy good",
+      "timestamp": 1140454443
+    },
+    {
+      "userId": 431,
+      "movieId": 904,
+      "tag": "jimmy stewart",
+      "timestamp": 1140455208
+    },
+    {
+      "userId": 431,
+      "movieId": 1059,
+      "tag": "claire daines",
+      "timestamp": 1140455275
+    },
+    {
+      "userId": 431,
+      "movieId": 1059,
+      "tag": "clever",
+      "timestamp": 1140455275
+    },
+    {
+      "userId": 431,
+      "movieId": 1059,
+      "tag": "Leonardo DiCaprio",
+      "timestamp": 1140455275
+    },
+    {
+      "userId": 431,
+      "movieId": 1059,
+      "tag": "shakespeare",
+      "timestamp": 1140455275
+    },
+    {
+      "userId": 431,
+      "movieId": 1242,
+      "tag": "denzel washington",
+      "timestamp": 1140455181
+    },
+    {
+      "userId": 431,
+      "movieId": 1250,
+      "tag": "war",
+      "timestamp": 1140455073
+    },
+    {
+      "userId": 431,
+      "movieId": 1259,
+      "tag": "r. phoneix",
+      "timestamp": 1140455011
+    },
+    {
+      "userId": 431,
+      "movieId": 1291,
+      "tag": "cool",
+      "timestamp": 1140454996
+    },
+    {
+      "userId": 431,
+      "movieId": 1358,
+      "tag": "billy bob thorton",
+      "timestamp": 1140455032
+    },
+    {
+      "userId": 431,
+      "movieId": 1376,
+      "tag": "not too thrilled",
+      "timestamp": 1140455126
+    },
+    {
+      "userId": 431,
+      "movieId": 1517,
+      "tag": "cheezy to the max!",
+      "timestamp": 1140454281
+    },
+    {
+      "userId": 431,
+      "movieId": 1635,
+      "tag": "moody",
+      "timestamp": 1165548220
+    },
+    {
+      "userId": 431,
+      "movieId": 1639,
+      "tag": "hillarious",
+      "timestamp": 1140455102
+    },
+    {
+      "userId": 431,
+      "movieId": 1801,
+      "tag": "good but not accurate",
+      "timestamp": 1140454574
+    },
+    {
+      "userId": 431,
+      "movieId": 1954,
+      "tag": "stallone",
+      "timestamp": 1140455043
+    },
+    {
+      "userId": 431,
+      "movieId": 1956,
+      "tag": "il",
+      "timestamp": 1165548392
+    },
+    {
+      "userId": 431,
+      "movieId": 1956,
+      "tag": "lake forest",
+      "timestamp": 1165548392
+    },
+    {
+      "userId": 431,
+      "movieId": 2004,
+      "tag": "not worth your time",
+      "timestamp": 1140454610
+    },
+    {
+      "userId": 431,
+      "movieId": 2012,
+      "tag": "liked the other two better",
+      "timestamp": 1140455152
+    },
+    {
+      "userId": 431,
+      "movieId": 2019,
+      "tag": "classic",
+      "timestamp": 1140455086
+    },
+    {
+      "userId": 431,
+      "movieId": 2085,
+      "tag": "cute",
+      "timestamp": 1140454548
+    },
+    {
+      "userId": 431,
+      "movieId": 2174,
+      "tag": "Micheal Keaton",
+      "timestamp": 1140454821
+    },
+    {
+      "userId": 431,
+      "movieId": 2369,
+      "tag": "must see",
+      "timestamp": 1140454589
+    },
+    {
+      "userId": 431,
+      "movieId": 2396,
+      "tag": "colin firth",
+      "timestamp": 1165548675
+    },
+    {
+      "userId": 431,
+      "movieId": 2396,
+      "tag": "Gwenth Paltrow",
+      "timestamp": 1165548675
+    },
+    {
+      "userId": 431,
+      "movieId": 2396,
+      "tag": "joseph fiennes",
+      "timestamp": 1165548675
+    },
+    {
+      "userId": 431,
+      "movieId": 2571,
+      "tag": "philosophy",
+      "timestamp": 1140454933
+    },
+    {
+      "userId": 431,
+      "movieId": 2692,
+      "tag": "cool and great music",
+      "timestamp": 1140454393
+    },
+    {
+      "userId": 431,
+      "movieId": 2700,
+      "tag": "stupidity",
+      "timestamp": 1140454856
+    },
+    {
+      "userId": 431,
+      "movieId": 3052,
+      "tag": "controversial",
+      "timestamp": 1140454805
+    },
+    {
+      "userId": 431,
+      "movieId": 3113,
+      "tag": "stupid",
+      "timestamp": 1140455730
+    },
+    {
+      "userId": 431,
+      "movieId": 3114,
+      "tag": "Tom Hanks",
+      "timestamp": 1140454833
+    },
+    {
+      "userId": 431,
+      "movieId": 3260,
+      "tag": "boring",
+      "timestamp": 1140455703
+    },
+    {
+      "userId": 431,
+      "movieId": 3361,
+      "tag": "tim robbins",
+      "timestamp": 1140455685
+    },
+    {
+      "userId": 431,
+      "movieId": 3751,
+      "tag": "mel gibson",
+      "timestamp": 1140454892
+    },
+    {
+      "userId": 431,
+      "movieId": 3785,
+      "tag": "stupid",
+      "timestamp": 1140455743
+    },
+    {
+      "userId": 431,
+      "movieId": 3793,
+      "tag": "can't stand rogue!",
+      "timestamp": 1140454770
+    },
+    {
+      "userId": 431,
+      "movieId": 3893,
+      "tag": "renee z",
+      "timestamp": 1140455496
+    },
+    {
+      "userId": 431,
+      "movieId": 3978,
+      "tag": "boring",
+      "timestamp": 1140455549
+    },
+    {
+      "userId": 431,
+      "movieId": 3994,
+      "tag": "predictable",
+      "timestamp": 1140454952
+    },
+    {
+      "userId": 431,
+      "movieId": 4016,
+      "tag": "okay",
+      "timestamp": 1140454522
+    },
+    {
+      "userId": 431,
+      "movieId": 4041,
+      "tag": "overrated",
+      "timestamp": 1140455478
+    },
+    {
+      "userId": 431,
+      "movieId": 4306,
+      "tag": "witty!",
+      "timestamp": 1140454779
+    },
+    {
+      "userId": 431,
+      "movieId": 4351,
+      "tag": "keanu reeves",
+      "timestamp": 1140455511
+    },
+    {
+      "userId": 431,
+      "movieId": 4369,
+      "tag": "no desire to see this",
+      "timestamp": 1140454634
+    },
+    {
+      "userId": 431,
+      "movieId": 4641,
+      "tag": "thora birch",
+      "timestamp": 1140455465
+    },
+    {
+      "userId": 431,
+      "movieId": 4701,
+      "tag": "jakie chan",
+      "timestamp": 1140455522
+    },
+    {
+      "userId": 431,
+      "movieId": 4823,
+      "tag": "john cusack",
+      "timestamp": 1140455540
+    },
+    {
+      "userId": 431,
+      "movieId": 4890,
+      "tag": "Gwenth Paltrow",
+      "timestamp": 1140455564
+    },
+    {
+      "userId": 431,
+      "movieId": 5064,
+      "tag": "not by book",
+      "timestamp": 1165548741
+    },
+    {
+      "userId": 431,
+      "movieId": 5135,
+      "tag": "nair",
+      "timestamp": 1165548358
+    },
+    {
+      "userId": 431,
+      "movieId": 5349,
+      "tag": "tobey maguire",
+      "timestamp": 1140454907
+    },
+    {
+      "userId": 431,
+      "movieId": 5377,
+      "tag": "books",
+      "timestamp": 1140455343
+    },
+    {
+      "userId": 431,
+      "movieId": 5377,
+      "tag": "relationships",
+      "timestamp": 1140455343
+    },
+    {
+      "userId": 431,
+      "movieId": 5481,
+      "tag": "mike myers",
+      "timestamp": 1140455409
+    },
+    {
+      "userId": 431,
+      "movieId": 5812,
+      "tag": "moore",
+      "timestamp": 1165548495
+    },
+    {
+      "userId": 431,
+      "movieId": 6281,
+      "tag": "collin farrel",
+      "timestamp": 1140455383
+    },
+    {
+      "userId": 431,
+      "movieId": 6539,
+      "tag": "I loved it! Seen it five times already!",
+      "timestamp": 1140454336
+    },
+    {
+      "userId": 431,
+      "movieId": 6953,
+      "tag": "Benicio Del Toro",
+      "timestamp": 1165548439
+    },
+    {
+      "userId": 431,
+      "movieId": 8636,
+      "tag": "the best comic adaptation!",
+      "timestamp": 1140454370
+    },
+    {
+      "userId": 446,
+      "movieId": 65514,
+      "tag": "kung fu",
+      "timestamp": 1436621295
+    },
+    {
+      "userId": 446,
+      "movieId": 65514,
+      "tag": "martial arts",
+      "timestamp": 1436621295
+    },
+    {
+      "userId": 446,
+      "movieId": 65514,
+      "tag": "well done",
+      "timestamp": 1436621295
+    },
+    {
+      "userId": 446,
+      "movieId": 68954,
+      "tag": "feel good",
+      "timestamp": 1436621325
+    },
+    {
+      "userId": 446,
+      "movieId": 68954,
+      "tag": "light",
+      "timestamp": 1436621329
+    },
+    {
+      "userId": 446,
+      "movieId": 88125,
+      "tag": "dark",
+      "timestamp": 1436621257
+    },
+    {
+      "userId": 448,
+      "movieId": 260,
+      "tag": "sci-fi",
+      "timestamp": 1444761481
+    },
+    {
+      "userId": 448,
+      "movieId": 260,
+      "tag": "supernatural powers",
+      "timestamp": 1444761492
+    },
+    {
+      "userId": 450,
+      "movieId": 107649,
+      "tag": "Alex van Warmerdam",
+      "timestamp": 1475737520
+    },
+    {
+      "userId": 450,
+      "movieId": 107649,
+      "tag": "magical realism",
+      "timestamp": 1475737516
+    },
+    {
+      "userId": 450,
+      "movieId": 107649,
+      "tag": "weird",
+      "timestamp": 1475737522
+    },
+    {
+      "userId": 456,
+      "movieId": 3703,
+      "tag": "action",
+      "timestamp": 1432308664
+    },
+    {
+      "userId": 456,
+      "movieId": 3703,
+      "tag": "desert",
+      "timestamp": 1432308674
+    },
+    {
+      "userId": 456,
+      "movieId": 3703,
+      "tag": "Dieselpunk",
+      "timestamp": 1432308755
+    },
+    {
+      "userId": 456,
+      "movieId": 3703,
+      "tag": "Mel Gibson",
+      "timestamp": 1432308659
+    },
+    {
+      "userId": 456,
+      "movieId": 3703,
+      "tag": "Post apocalyptic",
+      "timestamp": 1432308686
+    },
+    {
+      "userId": 456,
+      "movieId": 3703,
+      "tag": "post-apocalyptic",
+      "timestamp": 1432308656
+    },
+    {
+      "userId": 456,
+      "movieId": 44191,
+      "tag": "dystopia",
+      "timestamp": 1432308622
+    },
+    {
+      "userId": 456,
+      "movieId": 44191,
+      "tag": "thought-provoking",
+      "timestamp": 1432308624
+    },
+    {
+      "userId": 456,
+      "movieId": 106473,
+      "tag": "animation",
+      "timestamp": 1432309088
+    },
+    {
+      "userId": 456,
+      "movieId": 106473,
+      "tag": "anime",
+      "timestamp": 1432309076
+    },
+    {
+      "userId": 456,
+      "movieId": 106473,
+      "tag": "based on a TV show",
+      "timestamp": 1432309085
+    },
+    {
+      "userId": 456,
+      "movieId": 106473,
+      "tag": "fantasy world",
+      "timestamp": 1432309090
+    },
+    {
+      "userId": 468,
+      "movieId": 3676,
+      "tag": "National Film Registry",
+      "timestamp": 1296204035
+    },
+    {
+      "userId": 468,
+      "movieId": 5449,
+      "tag": "Adam Sandler",
+      "timestamp": 1296202619
+    },
+    {
+      "userId": 478,
+      "movieId": 55247,
+      "tag": "adventure",
+      "timestamp": 1446622291
+    },
+    {
+      "userId": 478,
+      "movieId": 55247,
+      "tag": "freedom",
+      "timestamp": 1446622248
+    },
+    {
+      "userId": 478,
+      "movieId": 55247,
+      "tag": "road trip",
+      "timestamp": 1446622240
+    },
+    {
+      "userId": 478,
+      "movieId": 55247,
+      "tag": "self discovery",
+      "timestamp": 1446622259
+    },
+    {
+      "userId": 478,
+      "movieId": 55247,
+      "tag": "travel",
+      "timestamp": 1446622390
+    },
+    {
+      "userId": 478,
+      "movieId": 106918,
+      "tag": "Iceland",
+      "timestamp": 1446830144
+    },
+    {
+      "userId": 478,
+      "movieId": 106918,
+      "tag": "photography",
+      "timestamp": 1446830153
+    },
+    {
+      "userId": 478,
+      "movieId": 106918,
+      "tag": "travel",
+      "timestamp": 1446830142
+    },
+    {
+      "userId": 480,
+      "movieId": 8369,
+      "tag": "who done it",
+      "timestamp": 1339456173
+    },
+    {
+      "userId": 480,
+      "movieId": 70286,
+      "tag": "aliens",
+      "timestamp": 1339283926
+    },
+    {
+      "userId": 480,
+      "movieId": 70286,
+      "tag": "humor",
+      "timestamp": 1339283929
+    },
+    {
+      "userId": 480,
+      "movieId": 70286,
+      "tag": "sci-fi",
+      "timestamp": 1339283933
+    },
+    {
+      "userId": 480,
+      "movieId": 70286,
+      "tag": "violence",
+      "timestamp": 1339283935
+    },
+    {
+      "userId": 480,
+      "movieId": 78349,
+      "tag": "claustrophobic",
+      "timestamp": 1339283636
+    },
+    {
+      "userId": 480,
+      "movieId": 78349,
+      "tag": "experiment",
+      "timestamp": 1339283627
+    },
+    {
+      "userId": 480,
+      "movieId": 78349,
+      "tag": "group psychology",
+      "timestamp": 1339283610
+    },
+    {
+      "userId": 480,
+      "movieId": 78349,
+      "tag": "psychological",
+      "timestamp": 1339283617
+    },
+    {
+      "userId": 480,
+      "movieId": 94777,
+      "tag": "aliens",
+      "timestamp": 1339284270
+    },
+    {
+      "userId": 480,
+      "movieId": 94777,
+      "tag": "franchise",
+      "timestamp": 1339284250
+    },
+    {
+      "userId": 480,
+      "movieId": 94777,
+      "tag": "funny",
+      "timestamp": 1339284240
+    },
+    {
+      "userId": 480,
+      "movieId": 94777,
+      "tag": "time travel",
+      "timestamp": 1339284259
+    },
+    {
+      "userId": 481,
+      "movieId": 260,
+      "tag": "George Lucas",
+      "timestamp": 1437000955
+    },
+    {
+      "userId": 481,
+      "movieId": 260,
+      "tag": "starwars",
+      "timestamp": 1437000940
+    },
+    {
+      "userId": 481,
+      "movieId": 1900,
+      "tag": "brother sister relationship",
+      "timestamp": 1437107499
+    },
+    {
+      "userId": 481,
+      "movieId": 1900,
+      "tag": "sad",
+      "timestamp": 1437107475
+    },
+    {
+      "userId": 481,
+      "movieId": 1900,
+      "tag": "siblings",
+      "timestamp": 1437107491
+    },
+    {
+      "userId": 481,
+      "movieId": 2361,
+      "tag": "cult film",
+      "timestamp": 1437105893
+    },
+    {
+      "userId": 481,
+      "movieId": 117533,
+      "tag": "big brother",
+      "timestamp": 1437004053
+    },
+    {
+      "userId": 481,
+      "movieId": 117533,
+      "tag": "documentary",
+      "timestamp": 1437004053
+    },
+    {
+      "userId": 481,
+      "movieId": 117533,
+      "tag": "privacy",
+      "timestamp": 1437004053
+    },
+    {
+      "userId": 501,
+      "movieId": 1,
+      "tag": "Pixar",
+      "timestamp": 1292956344
+    },
+    {
+      "userId": 501,
+      "movieId": 47,
+      "tag": "psychology",
+      "timestamp": 1292956276
+    },
+    {
+      "userId": 501,
+      "movieId": 47,
+      "tag": "twist ending",
+      "timestamp": 1292956362
+    },
+    {
+      "userId": 501,
+      "movieId": 296,
+      "tag": "dark comedy",
+      "timestamp": 1292956439
+    },
+    {
+      "userId": 501,
+      "movieId": 296,
+      "tag": "Quentin Tarantino",
+      "timestamp": 1292956435
+    },
+    {
+      "userId": 501,
+      "movieId": 778,
+      "tag": "dark comedy",
+      "timestamp": 1292956194
+    },
+    {
+      "userId": 501,
+      "movieId": 1089,
+      "tag": "organized crime",
+      "timestamp": 1292956420
+    },
+    {
+      "userId": 501,
+      "movieId": 1089,
+      "tag": "Quentin Tarantino",
+      "timestamp": 1292956416
+    },
+    {
+      "userId": 501,
+      "movieId": 2542,
+      "tag": "dark comedy",
+      "timestamp": 1292956446
+    },
+    {
+      "userId": 501,
+      "movieId": 2542,
+      "tag": "Guy Ritchie",
+      "timestamp": 1292956448
+    },
+    {
+      "userId": 501,
+      "movieId": 2542,
+      "tag": "organized crime",
+      "timestamp": 1292956450
+    },
+    {
+      "userId": 501,
+      "movieId": 2692,
+      "tag": "nonlinear",
+      "timestamp": 1292956226
+    },
+    {
+      "userId": 501,
+      "movieId": 2692,
+      "tag": "time travel",
+      "timestamp": 1292956392
+    },
+    {
+      "userId": 501,
+      "movieId": 2959,
+      "tag": "dark comedy",
+      "timestamp": 1292956481
+    },
+    {
+      "userId": 501,
+      "movieId": 2959,
+      "tag": "psychology",
+      "timestamp": 1292956476
+    },
+    {
+      "userId": 501,
+      "movieId": 2959,
+      "tag": "twist ending",
+      "timestamp": 1292956479
+    },
+    {
+      "userId": 501,
+      "movieId": 3114,
+      "tag": "animation",
+      "timestamp": 1292956346
+    },
+    {
+      "userId": 501,
+      "movieId": 3949,
+      "tag": "addiction",
+      "timestamp": 1292956422
+    },
+    {
+      "userId": 501,
+      "movieId": 3949,
+      "tag": "psychology",
+      "timestamp": 1292956425
+    },
+    {
+      "userId": 501,
+      "movieId": 4011,
+      "tag": "Guy Ritchie",
+      "timestamp": 1292956203
+    },
+    {
+      "userId": 501,
+      "movieId": 4011,
+      "tag": "twist ending",
+      "timestamp": 1292956205
+    },
+    {
+      "userId": 501,
+      "movieId": 5608,
+      "tag": "psychology",
+      "timestamp": 1292956490
+    },
+    {
+      "userId": 501,
+      "movieId": 6016,
+      "tag": "multiple storylines",
+      "timestamp": 1292956518
+    },
+    {
+      "userId": 501,
+      "movieId": 40148,
+      "tag": "guy ritchie",
+      "timestamp": 1292956408
+    },
+    {
+      "userId": 501,
+      "movieId": 47099,
+      "tag": "based on a true story",
+      "timestamp": 1292956431
+    },
+    {
+      "userId": 501,
+      "movieId": 60072,
+      "tag": "assassin",
+      "timestamp": 1292956189
+    },
+    {
+      "userId": 501,
+      "movieId": 62849,
+      "tag": "Drugs",
+      "timestamp": 1292956230
+    },
+    {
+      "userId": 501,
+      "movieId": 62849,
+      "tag": "Guy Ritchie",
+      "timestamp": 1292956234
+    },
+    {
+      "userId": 501,
+      "movieId": 62849,
+      "tag": "twist ending",
+      "timestamp": 1292956236
+    },
+    {
+      "userId": 501,
+      "movieId": 68157,
+      "tag": "Quentin Tarantino",
+      "timestamp": 1292956453
+    },
+    {
+      "userId": 501,
+      "movieId": 74458,
+      "tag": "psychological",
+      "timestamp": 1292956215
+    },
+    {
+      "userId": 501,
+      "movieId": 74458,
+      "tag": "twist ending",
+      "timestamp": 1292956212
+    },
+    {
+      "userId": 501,
+      "movieId": 77455,
+      "tag": "renegade art",
+      "timestamp": 1292956306
+    },
+    {
+      "userId": 501,
+      "movieId": 78499,
+      "tag": "Pixar",
+      "timestamp": 1292956196
+    },
+    {
+      "userId": 501,
+      "movieId": 79132,
+      "tag": "alternate reality",
+      "timestamp": 1292956469
+    },
+    {
+      "userId": 503,
+      "movieId": 260,
+      "tag": "Science Fiction",
+      "timestamp": 1432365802
+    },
+    {
+      "userId": 503,
+      "movieId": 260,
+      "tag": "space",
+      "timestamp": 1432365814
+    },
+    {
+      "userId": 512,
+      "movieId": 74458,
+      "tag": "Psychological Thriller",
+      "timestamp": 1434169401
+    },
+    {
+      "userId": 512,
+      "movieId": 79132,
+      "tag": "Intrigued",
+      "timestamp": 1434169472
+    },
+    {
+      "userId": 520,
+      "movieId": 4322,
+      "tag": "baseball",
+      "timestamp": 1146596187
+    },
+    {
+      "userId": 531,
+      "movieId": 1028,
+      "tag": "comedy of manners",
+      "timestamp": 1243454358
+    },
+    {
+      "userId": 531,
+      "movieId": 1028,
+      "tag": "Disney",
+      "timestamp": 1243454364
+    },
+    {
+      "userId": 531,
+      "movieId": 1028,
+      "tag": "Disney studios",
+      "timestamp": 1243454367
+    },
+    {
+      "userId": 531,
+      "movieId": 1028,
+      "tag": "Julie Andrews",
+      "timestamp": 1243454386
+    },
+    {
+      "userId": 531,
+      "movieId": 1028,
+      "tag": "multiple roles",
+      "timestamp": 1243454371
+    },
+    {
+      "userId": 531,
+      "movieId": 1028,
+      "tag": "musical",
+      "timestamp": 1243454374
+    },
+    {
+      "userId": 531,
+      "movieId": 1028,
+      "tag": "villain nonexistent or not needed for good story",
+      "timestamp": 1243454382
+    },
+    {
+      "userId": 531,
+      "movieId": 1088,
+      "tag": "80's classic",
+      "timestamp": 1243454483
+    },
+    {
+      "userId": 531,
+      "movieId": 1088,
+      "tag": "dance",
+      "timestamp": 1243454500
+    },
+    {
+      "userId": 531,
+      "movieId": 1088,
+      "tag": "girlie movie",
+      "timestamp": 1243454518
+    },
+    {
+      "userId": 531,
+      "movieId": 1088,
+      "tag": "music",
+      "timestamp": 1243454488
+    },
+    {
+      "userId": 531,
+      "movieId": 1088,
+      "tag": "musical parodies",
+      "timestamp": 1243454503
+    },
+    {
+      "userId": 531,
+      "movieId": 1088,
+      "tag": "rich families",
+      "timestamp": 1243454508
+    },
+    {
+      "userId": 531,
+      "movieId": 1258,
+      "tag": "disturbing",
+      "timestamp": 1243454832
+    },
+    {
+      "userId": 531,
+      "movieId": 1258,
+      "tag": "Nudity (Full Frontal - Notable)",
+      "timestamp": 1243454840
+    },
+    {
+      "userId": 531,
+      "movieId": 1258,
+      "tag": "Nudity (Full Frontal)",
+      "timestamp": 1243454842
+    },
+    {
+      "userId": 531,
+      "movieId": 1258,
+      "tag": "psychological",
+      "timestamp": 1243454846
+    },
+    {
+      "userId": 531,
+      "movieId": 1258,
+      "tag": "violent",
+      "timestamp": 1243454848
+    },
+    {
+      "userId": 531,
+      "movieId": 1997,
+      "tag": "demons",
+      "timestamp": 1243454875
+    },
+    {
+      "userId": 531,
+      "movieId": 1997,
+      "tag": "horror",
+      "timestamp": 1243454878
+    },
+    {
+      "userId": 531,
+      "movieId": 1997,
+      "tag": "possession",
+      "timestamp": 1243454880
+    },
+    {
+      "userId": 531,
+      "movieId": 1997,
+      "tag": "scary",
+      "timestamp": 1243454882
+    },
+    {
+      "userId": 531,
+      "movieId": 2942,
+      "tag": "dance",
+      "timestamp": 1243454447
+    },
+    {
+      "userId": 531,
+      "movieId": 2942,
+      "tag": "girlie movie",
+      "timestamp": 1243454450
+    },
+    {
+      "userId": 531,
+      "movieId": 2942,
+      "tag": "Nudity (Topless)",
+      "timestamp": 1243454452
+    },
+    {
+      "userId": 531,
+      "movieId": 2942,
+      "tag": "strippers",
+      "timestamp": 1243454454
+    },
+    {
+      "userId": 531,
+      "movieId": 4973,
+      "tag": "comedy",
+      "timestamp": 1243510202
+    },
+    {
+      "userId": 531,
+      "movieId": 4973,
+      "tag": "drama",
+      "timestamp": 1243510204
+    },
+    {
+      "userId": 531,
+      "movieId": 4973,
+      "tag": "notable soundtrack",
+      "timestamp": 1243510209
+    },
+    {
+      "userId": 531,
+      "movieId": 4973,
+      "tag": "quirky",
+      "timestamp": 1243510212
+    },
+    {
+      "userId": 531,
+      "movieId": 6218,
+      "tag": "football",
+      "timestamp": 1243509668
+    },
+    {
+      "userId": 531,
+      "movieId": 6218,
+      "tag": "Funny",
+      "timestamp": 1243509674
+    },
+    {
+      "userId": 531,
+      "movieId": 6218,
+      "tag": "Keira Knightley",
+      "timestamp": 1243509670
+    },
+    {
+      "userId": 531,
+      "movieId": 6218,
+      "tag": "love",
+      "timestamp": 1243509684
+    },
+    {
+      "userId": 531,
+      "movieId": 6863,
+      "tag": "funny",
+      "timestamp": 1243454300
+    },
+    {
+      "userId": 531,
+      "movieId": 6863,
+      "tag": "Jack Black",
+      "timestamp": 1243454312
+    },
+    {
+      "userId": 531,
+      "movieId": 6863,
+      "tag": "music",
+      "timestamp": 1243454317
+    },
+    {
+      "userId": 531,
+      "movieId": 6863,
+      "tag": "not only for kids",
+      "timestamp": 1243454321
+    },
+    {
+      "userId": 531,
+      "movieId": 6863,
+      "tag": "Rock",
+      "timestamp": 1243454333
+    },
+    {
+      "userId": 531,
+      "movieId": 6863,
+      "tag": "rock and roll",
+      "timestamp": 1243454326
+    },
+    {
+      "userId": 531,
+      "movieId": 6942,
+      "tag": "british",
+      "timestamp": 1243454933
+    },
+    {
+      "userId": 531,
+      "movieId": 6942,
+      "tag": "christmas",
+      "timestamp": 1243454936
+    },
+    {
+      "userId": 531,
+      "movieId": 6942,
+      "tag": "ensemble cast",
+      "timestamp": 1243454939
+    },
+    {
+      "userId": 531,
+      "movieId": 6942,
+      "tag": "Keira Knightley",
+      "timestamp": 1243454943
+    },
+    {
+      "userId": 531,
+      "movieId": 6942,
+      "tag": "love",
+      "timestamp": 1243454946
+    },
+    {
+      "userId": 531,
+      "movieId": 6942,
+      "tag": "multiple storylines",
+      "timestamp": 1243454948
+    },
+    {
+      "userId": 531,
+      "movieId": 6942,
+      "tag": "Nudity (Topless - Notable)",
+      "timestamp": 1243454950
+    },
+    {
+      "userId": 531,
+      "movieId": 6942,
+      "tag": "Nudity (Topless)",
+      "timestamp": 1243454952
+    },
+    {
+      "userId": 531,
+      "movieId": 6942,
+      "tag": "Romance",
+      "timestamp": 1243454954
+    },
+    {
+      "userId": 531,
+      "movieId": 8533,
+      "tag": "covers a lifespan",
+      "timestamp": 1243455160
+    },
+    {
+      "userId": 531,
+      "movieId": 8533,
+      "tag": "memories",
+      "timestamp": 1243455166
+    },
+    {
+      "userId": 531,
+      "movieId": 35836,
+      "tag": "comedy",
+      "timestamp": 1243454586
+    },
+    {
+      "userId": 531,
+      "movieId": 35836,
+      "tag": "crude",
+      "timestamp": 1243454590
+    },
+    {
+      "userId": 531,
+      "movieId": 35836,
+      "tag": "funny",
+      "timestamp": 1243454588
+    },
+    {
+      "userId": 531,
+      "movieId": 35836,
+      "tag": "nerds",
+      "timestamp": 1243454598
+    },
+    {
+      "userId": 531,
+      "movieId": 35836,
+      "tag": "Nudity (Topless - Notable)",
+      "timestamp": 1243454603
+    },
+    {
+      "userId": 531,
+      "movieId": 35836,
+      "tag": "Nudity (Topless)",
+      "timestamp": 1243454610
+    },
+    {
+      "userId": 531,
+      "movieId": 35836,
+      "tag": "sex",
+      "timestamp": 1243454608
+    },
+    {
+      "userId": 531,
+      "movieId": 45720,
+      "tag": "fashion",
+      "timestamp": 1243454978
+    },
+    {
+      "userId": 531,
+      "movieId": 45720,
+      "tag": "New York",
+      "timestamp": 1243454980
+    },
+    {
+      "userId": 531,
+      "movieId": 45720,
+      "tag": "Paris",
+      "timestamp": 1243454982
+    },
+    {
+      "userId": 531,
+      "movieId": 45720,
+      "tag": "Streep strong & funny",
+      "timestamp": 1243454985
+    },
+    {
+      "userId": 531,
+      "movieId": 59725,
+      "tag": "fashion",
+      "timestamp": 1243455007
+    },
+    {
+      "userId": 531,
+      "movieId": 59725,
+      "tag": "New York City",
+      "timestamp": 1243455012
+    },
+    {
+      "userId": 531,
+      "movieId": 59725,
+      "tag": "Nudity (Topless)",
+      "timestamp": 1243455014
+    },
+    {
+      "userId": 531,
+      "movieId": 59725,
+      "tag": "R:strong sexual content",
+      "timestamp": 1243455020
+    },
+    {
+      "userId": 531,
+      "movieId": 59725,
+      "tag": "romance",
+      "timestamp": 1243455018
+    },
+    {
+      "userId": 531,
+      "movieId": 63131,
+      "tag": "funny",
+      "timestamp": 1243509641
+    },
+    {
+      "userId": 531,
+      "movieId": 63131,
+      "tag": "obvious plot",
+      "timestamp": 1243509645
+    },
+    {
+      "userId": 531,
+      "movieId": 63992,
+      "tag": "romance",
+      "timestamp": 1243455092
+    },
+    {
+      "userId": 531,
+      "movieId": 63992,
+      "tag": "Teen movie",
+      "timestamp": 1243455095
+    },
+    {
+      "userId": 531,
+      "movieId": 63992,
+      "tag": "vampires",
+      "timestamp": 1243455099
+    },
+    {
+      "userId": 531,
+      "movieId": 64957,
+      "tag": "Brad Pitt",
+      "timestamp": 1243455053
+    },
+    {
+      "userId": 531,
+      "movieId": 64957,
+      "tag": "cinematography",
+      "timestamp": 1243455057
+    },
+    {
+      "userId": 531,
+      "movieId": 64957,
+      "tag": "drama",
+      "timestamp": 1243455060
+    },
+    {
+      "userId": 531,
+      "movieId": 64969,
+      "tag": "easily confused with other movie(s) (title)",
+      "timestamp": 1243454548
+    },
+    {
+      "userId": 531,
+      "movieId": 64969,
+      "tag": "funny",
+      "timestamp": 1243454556
+    },
+    {
+      "userId": 531,
+      "movieId": 64969,
+      "tag": "Jim carrey",
+      "timestamp": 1243454553
+    },
+    {
+      "userId": 531,
+      "movieId": 64969,
+      "tag": "Zooey Deschanel",
+      "timestamp": 1243454561
+    },
+    {
+      "userId": 546,
+      "movieId": 3176,
+      "tag": "Gwyneth Paltrow",
+      "timestamp": 1301715429
+    },
+    {
+      "userId": 546,
+      "movieId": 3176,
+      "tag": "Jude Law",
+      "timestamp": 1301715415
+    },
+    {
+      "userId": 546,
+      "movieId": 3707,
+      "tag": "Nudity (Rear)",
+      "timestamp": 1301284184
+    },
+    {
+      "userId": 546,
+      "movieId": 3707,
+      "tag": "Nudity (Topless)",
+      "timestamp": 1301284182
+    },
+    {
+      "userId": 546,
+      "movieId": 3707,
+      "tag": "sexy food",
+      "timestamp": 1301284180
+    },
+    {
+      "userId": 546,
+      "movieId": 5984,
+      "tag": "BDSM",
+      "timestamp": 1301785972
+    },
+    {
+      "userId": 546,
+      "movieId": 5984,
+      "tag": "Blindfold",
+      "timestamp": 1301785976
+    },
+    {
+      "userId": 546,
+      "movieId": 5984,
+      "tag": "Bondage",
+      "timestamp": 1301785990
+    },
+    {
+      "userId": 546,
+      "movieId": 5984,
+      "tag": "Domination",
+      "timestamp": 1301785971
+    },
+    {
+      "userId": 546,
+      "movieId": 5984,
+      "tag": "Fetish",
+      "timestamp": 1301785980
+    },
+    {
+      "userId": 546,
+      "movieId": 5984,
+      "tag": "Gag",
+      "timestamp": 1301785974
+    },
+    {
+      "userId": 546,
+      "movieId": 5984,
+      "tag": "Spanked",
+      "timestamp": 1301785983
+    },
+    {
+      "userId": 546,
+      "movieId": 5984,
+      "tag": "Submission",
+      "timestamp": 1301785988
+    },
+    {
+      "userId": 546,
+      "movieId": 5984,
+      "tag": "Tied",
+      "timestamp": 1301785981
+    },
+    {
+      "userId": 546,
+      "movieId": 5984,
+      "tag": "Udo Kier",
+      "timestamp": 1301785978
+    },
+    {
+      "userId": 546,
+      "movieId": 7155,
+      "tag": "Nudity (Topless - Notable)",
+      "timestamp": 1334013574
+    },
+    {
+      "userId": 546,
+      "movieId": 7155,
+      "tag": "Nudity (Topless)",
+      "timestamp": 1334013570
+    },
+    {
+      "userId": 546,
+      "movieId": 39421,
+      "tag": "Nudity (Topless)",
+      "timestamp": 1334013436
+    },
+    {
+      "userId": 546,
+      "movieId": 39421,
+      "tag": "porn",
+      "timestamp": 1334013433
+    },
+    {
+      "userId": 546,
+      "movieId": 48780,
+      "tag": "based on a book",
+      "timestamp": 1301715225
+    },
+    {
+      "userId": 546,
+      "movieId": 48780,
+      "tag": "twist ending",
+      "timestamp": 1301715231
+    },
+    {
+      "userId": 546,
+      "movieId": 53318,
+      "tag": "notable nudity",
+      "timestamp": 1301196436
+    },
+    {
+      "userId": 546,
+      "movieId": 53318,
+      "tag": "Nudity (Full Frontal)",
+      "timestamp": 1301196425
+    },
+    {
+      "userId": 547,
+      "movieId": 215,
+      "tag": "holes90s",
+      "timestamp": 1342849999
+    },
+    {
+      "userId": 547,
+      "movieId": 293,
+      "tag": "holes90s",
+      "timestamp": 1342849862
+    },
+    {
+      "userId": 547,
+      "movieId": 306,
+      "tag": "holes90s",
+      "timestamp": 1342849839
+    },
+    {
+      "userId": 547,
+      "movieId": 319,
+      "tag": "holes90s",
+      "timestamp": 1342849790
+    },
+    {
+      "userId": 547,
+      "movieId": 364,
+      "tag": "holes90s",
+      "timestamp": 1342849955
+    },
+    {
+      "userId": 547,
+      "movieId": 541,
+      "tag": "afi",
+      "timestamp": 1182393913
+    },
+    {
+      "userId": 547,
+      "movieId": 588,
+      "tag": "holes90s",
+      "timestamp": 1342849969
+    },
+    {
+      "userId": 547,
+      "movieId": 599,
+      "tag": "dvd",
+      "timestamp": 1388422564
+    },
+    {
+      "userId": 547,
+      "movieId": 599,
+      "tag": "holes60s",
+      "timestamp": 1388820371
+    },
+    {
+      "userId": 547,
+      "movieId": 757,
+      "tag": "getdvd",
+      "timestamp": 1423201850
+    },
+    {
+      "userId": 547,
+      "movieId": 914,
+      "tag": "holes60s",
+      "timestamp": 1342850735
+    },
+    {
+      "userId": 547,
+      "movieId": 946,
+      "tag": "holes40s",
+      "timestamp": 1412348245
+    },
+    {
+      "userId": 547,
+      "movieId": 954,
+      "tag": "afi",
+      "timestamp": 1182393876
+    },
+    {
+      "userId": 547,
+      "movieId": 1153,
+      "tag": "tcm",
+      "timestamp": 1189187818
+    },
+    {
+      "userId": 547,
+      "movieId": 1172,
+      "tag": "holes80s",
+      "timestamp": 1342849456
+    },
+    {
+      "userId": 547,
+      "movieId": 1197,
+      "tag": "holes80s",
+      "timestamp": 1342849599
+    },
+    {
+      "userId": 547,
+      "movieId": 1209,
+      "tag": "holes60s",
+      "timestamp": 1351319934
+    },
+    {
+      "userId": 547,
+      "movieId": 1211,
+      "tag": "holes80s",
+      "timestamp": 1342849466
+    },
+    {
+      "userId": 547,
+      "movieId": 1232,
+      "tag": "sightsound",
+      "timestamp": 1343973832
+    },
+    {
+      "userId": 547,
+      "movieId": 1245,
+      "tag": "holes90s",
+      "timestamp": 1342849804
+    },
+    {
+      "userId": 547,
+      "movieId": 1260,
+      "tag": "tcm",
+      "timestamp": 1189187750
+    },
+    {
+      "userId": 547,
+      "movieId": 1272,
+      "tag": "holes70s",
+      "timestamp": 1342849087
+    },
+    {
+      "userId": 547,
+      "movieId": 1273,
+      "tag": "holes80s",
+      "timestamp": 1342849477
+    },
+    {
+      "userId": 547,
+      "movieId": 1281,
+      "tag": "holes40s",
+      "timestamp": 1412348178
+    },
+    {
+      "userId": 547,
+      "movieId": 1281,
+      "tag": "tivo",
+      "timestamp": 1476583274
+    },
+    {
+      "userId": 547,
+      "movieId": 1283,
+      "tag": "afi",
+      "timestamp": 1182394030
+    },
+    {
+      "userId": 547,
+      "movieId": 1283,
+      "tag": "hdtv",
+      "timestamp": 1199396362
+    },
+    {
+      "userId": 547,
+      "movieId": 1572,
+      "tag": "sightsound",
+      "timestamp": 1343973703
+    },
+    {
+      "userId": 547,
+      "movieId": 1935,
+      "tag": "holes40s",
+      "timestamp": 1412348396
+    },
+    {
+      "userId": 547,
+      "movieId": 1942,
+      "tag": "holes40s",
+      "timestamp": 1412348211
+    },
+    {
+      "userId": 547,
+      "movieId": 1957,
+      "tag": "holes80s",
+      "timestamp": 1342849494
+    },
+    {
+      "userId": 547,
+      "movieId": 2028,
+      "tag": "afi",
+      "timestamp": 1182394053
+    },
+    {
+      "userId": 547,
+      "movieId": 2028,
+      "tag": "hdtv",
+      "timestamp": 1200784012
+    },
+    {
+      "userId": 547,
+      "movieId": 2028,
+      "tag": "holes90s",
+      "timestamp": 1342849945
+    },
+    {
+      "userId": 547,
+      "movieId": 2109,
+      "tag": "holes70s",
+      "timestamp": 1342849272
+    },
+    {
+      "userId": 547,
+      "movieId": 2178,
+      "tag": "holes70s",
+      "timestamp": 1342849166
+    },
+    {
+      "userId": 547,
+      "movieId": 2182,
+      "tag": "tcm",
+      "timestamp": 1412347392
+    },
+    {
+      "userId": 547,
+      "movieId": 2202,
+      "tag": "holes40s",
+      "timestamp": 1412348261
+    },
+    {
+      "userId": 547,
+      "movieId": 2330,
+      "tag": "holes90s",
+      "timestamp": 1342849749
+    },
+    {
+      "userId": 547,
+      "movieId": 2677,
+      "tag": "holes90s",
+      "timestamp": 1342849900
+    },
+    {
+      "userId": 547,
+      "movieId": 2730,
+      "tag": "getdvd",
+      "timestamp": 1350531508
+    },
+    {
+      "userId": 547,
+      "movieId": 2730,
+      "tag": "holes70s",
+      "timestamp": 1342849220
+    },
+    {
+      "userId": 547,
+      "movieId": 2747,
+      "tag": "tivo",
+      "timestamp": 1476583080
+    },
+    {
+      "userId": 547,
+      "movieId": 2857,
+      "tag": "holes60s",
+      "timestamp": 1342850705
+    },
+    {
+      "userId": 547,
+      "movieId": 2920,
+      "tag": "getdvd",
+      "timestamp": 1412348038
+    },
+    {
+      "userId": 547,
+      "movieId": 2920,
+      "tag": "holes40s",
+      "timestamp": 1412348038
+    },
+    {
+      "userId": 547,
+      "movieId": 2927,
+      "tag": "holes40s",
+      "timestamp": 1412348319
+    },
+    {
+      "userId": 547,
+      "movieId": 2936,
+      "tag": "afi",
+      "timestamp": 1182393939
+    },
+    {
+      "userId": 547,
+      "movieId": 2936,
+      "tag": "holes40s",
+      "timestamp": 1412348275
+    },
+    {
+      "userId": 547,
+      "movieId": 3022,
+      "tag": "afi",
+      "timestamp": 1182393819
+    },
+    {
+      "userId": 547,
+      "movieId": 3089,
+      "tag": "holes40s",
+      "timestamp": 1412348191
+    },
+    {
+      "userId": 547,
+      "movieId": 3111,
+      "tag": "holes80s",
+      "timestamp": 1342849685
+    },
+    {
+      "userId": 547,
+      "movieId": 3246,
+      "tag": "holes90s",
+      "timestamp": 1342849768
+    },
+    {
+      "userId": 547,
+      "movieId": 3384,
+      "tag": "holes70s",
+      "timestamp": 1342849030
+    },
+    {
+      "userId": 547,
+      "movieId": 3415,
+      "tag": "sightsound",
+      "timestamp": 1343973557
+    },
+    {
+      "userId": 547,
+      "movieId": 3498,
+      "tag": "holes70s",
+      "timestamp": 1342849114
+    },
+    {
+      "userId": 547,
+      "movieId": 3539,
+      "tag": "tivo",
+      "timestamp": 1476583329
+    },
+    {
+      "userId": 547,
+      "movieId": 3629,
+      "tag": "afi",
+      "timestamp": 1182433856
+    },
+    {
+      "userId": 547,
+      "movieId": 3629,
+      "tag": "hdtv",
+      "timestamp": 1200784036
+    },
+    {
+      "userId": 547,
+      "movieId": 3632,
+      "tag": "holes40s",
+      "timestamp": 1412348295
+    },
+    {
+      "userId": 547,
+      "movieId": 3634,
+      "tag": "getdvd",
+      "timestamp": 1418986019
+    },
+    {
+      "userId": 547,
+      "movieId": 3634,
+      "tag": "holes60s",
+      "timestamp": 1418986015
+    },
+    {
+      "userId": 547,
+      "movieId": 3671,
+      "tag": "holes70s",
+      "timestamp": 1342849229
+    },
+    {
+      "userId": 547,
+      "movieId": 3679,
+      "tag": "holes80s",
+      "timestamp": 1342849435
+    },
+    {
+      "userId": 547,
+      "movieId": 3742,
+      "tag": "sightsound",
+      "timestamp": 1343973400
+    },
+    {
+      "userId": 547,
+      "movieId": 3789,
+      "tag": "holes60s",
+      "timestamp": 1342850721
+    },
+    {
+      "userId": 547,
+      "movieId": 3811,
+      "tag": "holes80s",
+      "timestamp": 1342849524
+    },
+    {
+      "userId": 547,
+      "movieId": 3947,
+      "tag": "holes70s",
+      "timestamp": 1431088744
+    },
+    {
+      "userId": 547,
+      "movieId": 4103,
+      "tag": "holes80s",
+      "timestamp": 1342849627
+    },
+    {
+      "userId": 547,
+      "movieId": 4262,
+      "tag": "holes80s",
+      "timestamp": 1342849544
+    },
+    {
+      "userId": 547,
+      "movieId": 4326,
+      "tag": "holes80s",
+      "timestamp": 1342849552
+    },
+    {
+      "userId": 547,
+      "movieId": 4327,
+      "tag": "holes60s",
+      "timestamp": 1342850801
+    },
+    {
+      "userId": 547,
+      "movieId": 4437,
+      "tag": "holes70s",
+      "timestamp": 1342849298
+    },
+    {
+      "userId": 547,
+      "movieId": 4712,
+      "tag": "holes70s",
+      "timestamp": 1342849242
+    },
+    {
+      "userId": 547,
+      "movieId": 4763,
+      "tag": "getdvd",
+      "timestamp": 1471010946
+    },
+    {
+      "userId": 547,
+      "movieId": 4928,
+      "tag": "holes70s",
+      "timestamp": 1342849195
+    },
+    {
+      "userId": 547,
+      "movieId": 5169,
+      "tag": "tcm",
+      "timestamp": 1189187923
+    },
+    {
+      "userId": 547,
+      "movieId": 5198,
+      "tag": "holes80s",
+      "timestamp": 1342849514
+    },
+    {
+      "userId": 547,
+      "movieId": 5289,
+      "tag": "tcm",
+      "timestamp": 1189187738
+    },
+    {
+      "userId": 547,
+      "movieId": 5464,
+      "tag": "holes00s",
+      "timestamp": 1342850481
+    },
+    {
+      "userId": 547,
+      "movieId": 5747,
+      "tag": "holes80s",
+      "timestamp": 1342849443
+    },
+    {
+      "userId": 547,
+      "movieId": 5791,
+      "tag": "holes00s",
+      "timestamp": 1342850231
+    },
+    {
+      "userId": 547,
+      "movieId": 5795,
+      "tag": "tosee",
+      "timestamp": 1475705682
+    },
+    {
+      "userId": 547,
+      "movieId": 5956,
+      "tag": "dvd",
+      "timestamp": 1259388129
+    },
+    {
+      "userId": 547,
+      "movieId": 6229,
+      "tag": "holes70s",
+      "timestamp": 1342849313
+    },
+    {
+      "userId": 547,
+      "movieId": 6433,
+      "tag": "sightsound",
+      "timestamp": 1343973308
+    },
+    {
+      "userId": 547,
+      "movieId": 6515,
+      "tag": "tcm",
+      "timestamp": 1190475823
+    },
+    {
+      "userId": 547,
+      "movieId": 6643,
+      "tag": "sightsound",
+      "timestamp": 1343973230
+    },
+    {
+      "userId": 547,
+      "movieId": 6783,
+      "tag": "sightsound",
+      "timestamp": 1343973251
+    },
+    {
+      "userId": 547,
+      "movieId": 6830,
+      "tag": "tcm",
+      "timestamp": 1190475890
+    },
+    {
+      "userId": 547,
+      "movieId": 6874,
+      "tag": "holes00s",
+      "timestamp": 1342850598
+    },
+    {
+      "userId": 547,
+      "movieId": 6981,
+      "tag": "sightsound",
+      "timestamp": 1343973754
+    },
+    {
+      "userId": 547,
+      "movieId": 6983,
+      "tag": "holes40s",
+      "timestamp": 1412348440
+    },
+    {
+      "userId": 547,
+      "movieId": 6985,
+      "tag": "sightsound",
+      "timestamp": 1343973328
+    },
+    {
+      "userId": 547,
+      "movieId": 7195,
+      "tag": "tcm",
+      "timestamp": 1189187983
+    },
+    {
+      "userId": 547,
+      "movieId": 7243,
+      "tag": "afi",
+      "timestamp": 1182394001
+    },
+    {
+      "userId": 547,
+      "movieId": 7243,
+      "tag": "hdtv",
+      "timestamp": 1200784002
+    },
+    {
+      "userId": 547,
+      "movieId": 7335,
+      "tag": "tcm",
+      "timestamp": 1189187908
+    },
+    {
+      "userId": 547,
+      "movieId": 7438,
+      "tag": "holes00s",
+      "timestamp": 1342850493
+    },
+    {
+      "userId": 547,
+      "movieId": 7792,
+      "tag": "holes70s",
+      "timestamp": 1342849103
+    },
+    {
+      "userId": 547,
+      "movieId": 7926,
+      "tag": "getdvd",
+      "timestamp": 1412347952
+    },
+    {
+      "userId": 547,
+      "movieId": 8125,
+      "tag": "afi",
+      "timestamp": 1182393855
+    },
+    {
+      "userId": 547,
+      "movieId": 8128,
+      "tag": "holes80s",
+      "timestamp": 1342849418
+    },
+    {
+      "userId": 547,
+      "movieId": 8154,
+      "tag": "holes60s",
+      "timestamp": 1342850820
+    },
+    {
+      "userId": 547,
+      "movieId": 8195,
+      "tag": "sightsound",
+      "timestamp": 1343973620
+    },
+    {
+      "userId": 547,
+      "movieId": 8207,
+      "tag": "holes70s",
+      "timestamp": 1342849135
+    },
+    {
+      "userId": 547,
+      "movieId": 8236,
+      "tag": "tcm",
+      "timestamp": 1190475838
+    },
+    {
+      "userId": 547,
+      "movieId": 8494,
+      "tag": "dvd",
+      "timestamp": 1254390631
+    },
+    {
+      "userId": 547,
+      "movieId": 8584,
+      "tag": "tivo",
+      "timestamp": 1476583430
+    },
+    {
+      "userId": 547,
+      "movieId": 8645,
+      "tag": "holes00s",
+      "timestamp": 1342850358
+    },
+    {
+      "userId": 547,
+      "movieId": 8751,
+      "tag": "tcm",
+      "timestamp": 1189187687
+    },
+    {
+      "userId": 547,
+      "movieId": 8765,
+      "tag": "tcm",
+      "timestamp": 1189187626
+    },
+    {
+      "userId": 547,
+      "movieId": 8766,
+      "tag": "tcm",
+      "timestamp": 1189187878
+    },
+    {
+      "userId": 547,
+      "movieId": 8767,
+      "tag": "tcm",
+      "timestamp": 1189187947
+    },
+    {
+      "userId": 547,
+      "movieId": 25805,
+      "tag": "sightsound",
+      "timestamp": 1343973445
+    },
+    {
+      "userId": 547,
+      "movieId": 25927,
+      "tag": "holes40s",
+      "timestamp": 1412348360
+    },
+    {
+      "userId": 547,
+      "movieId": 25927,
+      "tag": "tcm",
+      "timestamp": 1189187934
+    },
+    {
+      "userId": 547,
+      "movieId": 26150,
+      "tag": "sightsound",
+      "timestamp": 1343973817
+    },
+    {
+      "userId": 547,
+      "movieId": 26151,
+      "tag": "sightsound",
+      "timestamp": 1343973505
+    },
+    {
+      "userId": 547,
+      "movieId": 26366,
+      "tag": "holes70s",
+      "timestamp": 1342849254
+    },
+    {
+      "userId": 547,
+      "movieId": 31770,
+      "tag": "tcm",
+      "timestamp": 1189187673
+    },
+    {
+      "userId": 547,
+      "movieId": 34517,
+      "tag": "tivo",
+      "timestamp": 1476583581
+    },
+    {
+      "userId": 547,
+      "movieId": 37741,
+      "tag": "toplist05",
+      "timestamp": 1378985294
+    },
+    {
+      "userId": 547,
+      "movieId": 38304,
+      "tag": "toplist05",
+      "timestamp": 1378985376
+    },
+    {
+      "userId": 547,
+      "movieId": 39183,
+      "tag": "toplist05",
+      "timestamp": 1334343486
+    },
+    {
+      "userId": 547,
+      "movieId": 40629,
+      "tag": "toplist05",
+      "timestamp": 1378985440
+    },
+    {
+      "userId": 547,
+      "movieId": 40819,
+      "tag": "toplist05",
+      "timestamp": 1378985328
+    },
+    {
+      "userId": 547,
+      "movieId": 41585,
+      "tag": "tcm",
+      "timestamp": 1189187574
+    },
+    {
+      "userId": 547,
+      "movieId": 41863,
+      "tag": "toplist06",
+      "timestamp": 1197165976
+    },
+    {
+      "userId": 547,
+      "movieId": 41997,
+      "tag": "hdtv",
+      "timestamp": 1200107294
+    },
+    {
+      "userId": 547,
+      "movieId": 41997,
+      "tag": "holes00s",
+      "timestamp": 1342850302
+    },
+    {
+      "userId": 547,
+      "movieId": 42217,
+      "tag": "sightsound",
+      "timestamp": 1343973482
+    },
+    {
+      "userId": 547,
+      "movieId": 44199,
+      "tag": "toplist06",
+      "timestamp": 1197165844
+    },
+    {
+      "userId": 547,
+      "movieId": 44555,
+      "tag": "toplist06",
+      "timestamp": 1235048573
+    },
+    {
+      "userId": 547,
+      "movieId": 45028,
+      "tag": "toplist06",
+      "timestamp": 1197165941
+    },
+    {
+      "userId": 547,
+      "movieId": 45210,
+      "tag": "toplist06",
+      "timestamp": 1198810519
+    },
+    {
+      "userId": 547,
+      "movieId": 46578,
+      "tag": "toplist06",
+      "timestamp": 1197165894
+    },
+    {
+      "userId": 547,
+      "movieId": 46664,
+      "tag": "holes40s",
+      "timestamp": 1412348651
+    },
+    {
+      "userId": 547,
+      "movieId": 46664,
+      "tag": "tcm",
+      "timestamp": 1412348651
+    },
+    {
+      "userId": 547,
+      "movieId": 46723,
+      "tag": "toplist06",
+      "timestamp": 1197165832
+    },
+    {
+      "userId": 547,
+      "movieId": 47099,
+      "tag": "toplist06",
+      "timestamp": 1197164385
+    },
+    {
+      "userId": 547,
+      "movieId": 47274,
+      "tag": "holes70s",
+      "timestamp": 1342849207
+    },
+    {
+      "userId": 547,
+      "movieId": 47423,
+      "tag": "toplist06",
+      "timestamp": 1197164296
+    },
+    {
+      "userId": 547,
+      "movieId": 47629,
+      "tag": "toplist06",
+      "timestamp": 1197165707
+    },
+    {
+      "userId": 547,
+      "movieId": 48394,
+      "tag": "hdtv",
+      "timestamp": 1200549984
+    },
+    {
+      "userId": 547,
+      "movieId": 48394,
+      "tag": "holes00s",
+      "timestamp": 1342850387
+    },
+    {
+      "userId": 547,
+      "movieId": 48516,
+      "tag": "toplist06",
+      "timestamp": 1197165676
+    },
+    {
+      "userId": 547,
+      "movieId": 48696,
+      "tag": "toplist06",
+      "timestamp": 1197165862
+    },
+    {
+      "userId": 547,
+      "movieId": 48738,
+      "tag": "toplist06",
+      "timestamp": 1197164312
+    },
+    {
+      "userId": 547,
+      "movieId": 48774,
+      "tag": "toplist06",
+      "timestamp": 1197165663
+    },
+    {
+      "userId": 547,
+      "movieId": 49824,
+      "tag": "toplist06",
+      "timestamp": 1197165695
+    },
+    {
+      "userId": 547,
+      "movieId": 49917,
+      "tag": "toplist06",
+      "timestamp": 1268555186
+    },
+    {
+      "userId": 547,
+      "movieId": 50068,
+      "tag": "holes00s",
+      "timestamp": 1342850218
+    },
+    {
+      "userId": 547,
+      "movieId": 51540,
+      "tag": "toplist07",
+      "timestamp": 1192323038
+    },
+    {
+      "userId": 547,
+      "movieId": 52241,
+      "tag": "toplist07",
+      "timestamp": 1197122754
+    },
+    {
+      "userId": 547,
+      "movieId": 52281,
+      "tag": "hdtv",
+      "timestamp": 1200875555
+    },
+    {
+      "userId": 547,
+      "movieId": 52281,
+      "tag": "holes00s",
+      "timestamp": 1342850259
+    },
+    {
+      "userId": 547,
+      "movieId": 52579,
+      "tag": "getdvd",
+      "timestamp": 1471606640
+    },
+    {
+      "userId": 547,
+      "movieId": 52967,
+      "tag": "toplist07",
+      "timestamp": 1197313756
+    },
+    {
+      "userId": 547,
+      "movieId": 53000,
+      "tag": "toplist07",
+      "timestamp": 1198811122
+    },
+    {
+      "userId": 547,
+      "movieId": 53123,
+      "tag": "toplist07",
+      "timestamp": 1187738100
+    },
+    {
+      "userId": 547,
+      "movieId": 53894,
+      "tag": "toplist07",
+      "timestamp": 1197122145
+    },
+    {
+      "userId": 547,
+      "movieId": 53953,
+      "tag": "getdvd",
+      "timestamp": 1467870755
+    },
+    {
+      "userId": 547,
+      "movieId": 54272,
+      "tag": "toplist07",
+      "timestamp": 1187738146
+    },
+    {
+      "userId": 547,
+      "movieId": 54286,
+      "tag": "toplist07",
+      "timestamp": 1197122822
+    },
+    {
+      "userId": 547,
+      "movieId": 54513,
+      "tag": "toplist07",
+      "timestamp": 1187737659
+    },
+    {
+      "userId": 547,
+      "movieId": 54881,
+      "tag": "toplist07",
+      "timestamp": 1268555304
+    },
+    {
+      "userId": 547,
+      "movieId": 55052,
+      "tag": "toplist07",
+      "timestamp": 1197122048
+    },
+    {
+      "userId": 547,
+      "movieId": 55063,
+      "tag": "toplist08",
+      "timestamp": 1228486494
+    },
+    {
+      "userId": 547,
+      "movieId": 55069,
+      "tag": "holes00s",
+      "timestamp": 1472570165
+    },
+    {
+      "userId": 547,
+      "movieId": 55069,
+      "tag": "toplist07",
+      "timestamp": 1301765688
+    },
+    {
+      "userId": 547,
+      "movieId": 55118,
+      "tag": "toplist07",
+      "timestamp": 1197121987
+    },
+    {
+      "userId": 547,
+      "movieId": 55247,
+      "tag": "toplist07",
+      "timestamp": 1197121953
+    },
+    {
+      "userId": 547,
+      "movieId": 55253,
+      "tag": "toplist07",
+      "timestamp": 1268555286
+    },
+    {
+      "userId": 547,
+      "movieId": 55269,
+      "tag": "toplist07",
+      "timestamp": 1197122030
+    },
+    {
+      "userId": 547,
+      "movieId": 55276,
+      "tag": "toplist07",
+      "timestamp": 1195959915
+    },
+    {
+      "userId": 547,
+      "movieId": 55280,
+      "tag": "holes00s",
+      "timestamp": 1342850401
+    },
+    {
+      "userId": 547,
+      "movieId": 55363,
+      "tag": "getdvd",
+      "timestamp": 1412346850
+    },
+    {
+      "userId": 547,
+      "movieId": 55363,
+      "tag": "holes00s",
+      "timestamp": 1342850280
+    },
+    {
+      "userId": 547,
+      "movieId": 55442,
+      "tag": "holes00s",
+      "timestamp": 1342850172
+    },
+    {
+      "userId": 547,
+      "movieId": 55442,
+      "tag": "toplist07",
+      "timestamp": 1268555437
+    },
+    {
+      "userId": 547,
+      "movieId": 55820,
+      "tag": "toplist07",
+      "timestamp": 1197121965
+    },
+    {
+      "userId": 547,
+      "movieId": 55946,
+      "tag": "tivo",
+      "timestamp": 1476113630
+    },
+    {
+      "userId": 547,
+      "movieId": 56015,
+      "tag": "tcm",
+      "timestamp": 1412347417
+    },
+    {
+      "userId": 547,
+      "movieId": 56152,
+      "tag": "toplist07",
+      "timestamp": 1198811180
+    },
+    {
+      "userId": 547,
+      "movieId": 56286,
+      "tag": "toplist07",
+      "timestamp": 1268555500
+    },
+    {
+      "userId": 547,
+      "movieId": 56367,
+      "tag": "toplist07",
+      "timestamp": 1198968553
+    },
+    {
+      "userId": 547,
+      "movieId": 56607,
+      "tag": "toplist07",
+      "timestamp": 1200334592
+    },
+    {
+      "userId": 547,
+      "movieId": 56782,
+      "tag": "toplist07",
+      "timestamp": 1200334609
+    },
+    {
+      "userId": 547,
+      "movieId": 56788,
+      "tag": "toplist07",
+      "timestamp": 1201665448
+    },
+    {
+      "userId": 547,
+      "movieId": 56805,
+      "tag": "toplist07",
+      "timestamp": 1198968631
+    },
+    {
+      "userId": 547,
+      "movieId": 57669,
+      "tag": "toplist08",
+      "timestamp": 1250738298
+    },
+    {
+      "userId": 547,
+      "movieId": 58191,
+      "tag": "toplist08",
+      "timestamp": 1223243755
+    },
+    {
+      "userId": 547,
+      "movieId": 58879,
+      "tag": "toplist08",
+      "timestamp": 1207957343
+    },
+    {
+      "userId": 547,
+      "movieId": 60069,
+      "tag": "toplist08",
+      "timestamp": 1230814631
+    },
+    {
+      "userId": 547,
+      "movieId": 60766,
+      "tag": "toplist08",
+      "timestamp": 1223243682
+    },
+    {
+      "userId": 547,
+      "movieId": 61024,
+      "tag": "toplist08",
+      "timestamp": 1223243801
+    },
+    {
+      "userId": 547,
+      "movieId": 61236,
+      "tag": "holes00s",
+      "timestamp": 1342850181
+    },
+    {
+      "userId": 547,
+      "movieId": 61236,
+      "tag": "toplist08",
+      "timestamp": 1230870494
+    },
+    {
+      "userId": 547,
+      "movieId": 61240,
+      "tag": "holes00s",
+      "timestamp": 1342850379
+    },
+    {
+      "userId": 547,
+      "movieId": 61240,
+      "tag": "toplist08",
+      "timestamp": 1230814624
+    },
+    {
+      "userId": 547,
+      "movieId": 61323,
+      "tag": "toplist08",
+      "timestamp": 1223244145
+    },
+    {
+      "userId": 547,
+      "movieId": 61357,
+      "tag": "toplist08",
+      "timestamp": 1222269690
+    },
+    {
+      "userId": 547,
+      "movieId": 63082,
+      "tag": "toplist08",
+      "timestamp": 1228486518
+    },
+    {
+      "userId": 547,
+      "movieId": 63876,
+      "tag": "toplist08",
+      "timestamp": 1230814303
+    },
+    {
+      "userId": 547,
+      "movieId": 64614,
+      "tag": "toplist08",
+      "timestamp": 1250440712
+    },
+    {
+      "userId": 547,
+      "movieId": 64620,
+      "tag": "toplist08",
+      "timestamp": 1230814286
+    },
+    {
+      "userId": 547,
+      "movieId": 64622,
+      "tag": "toplist08",
+      "timestamp": 1230942216
+    },
+    {
+      "userId": 547,
+      "movieId": 64701,
+      "tag": "toplist08",
+      "timestamp": 1230869509
+    },
+    {
+      "userId": 547,
+      "movieId": 64839,
+      "tag": "toplist08",
+      "timestamp": 1236951337
+    },
+    {
+      "userId": 547,
+      "movieId": 66665,
+      "tag": "toplist09",
+      "timestamp": 1253860576
+    },
+    {
+      "userId": 547,
+      "movieId": 67087,
+      "tag": "toplist09",
+      "timestamp": 1259384470
+    },
+    {
+      "userId": 547,
+      "movieId": 67255,
+      "tag": "toplist10",
+      "timestamp": 1270485757
+    },
+    {
+      "userId": 547,
+      "movieId": 67429,
+      "tag": "toplist08",
+      "timestamp": 1238823068
+    },
+    {
+      "userId": 547,
+      "movieId": 67665,
+      "tag": "getdvd",
+      "timestamp": 1321564884
+    },
+    {
+      "userId": 547,
+      "movieId": 67665,
+      "tag": "toplist09",
+      "timestamp": 1250742907
+    },
+    {
+      "userId": 547,
+      "movieId": 67997,
+      "tag": "toplist09",
+      "timestamp": 1250742829
+    },
+    {
+      "userId": 547,
+      "movieId": 68157,
+      "tag": "toplist09",
+      "timestamp": 1253860562
+    },
+    {
+      "userId": 547,
+      "movieId": 68954,
+      "tag": "holes00s",
+      "timestamp": 1342850438
+    },
+    {
+      "userId": 547,
+      "movieId": 69481,
+      "tag": "toplist09",
+      "timestamp": 1250742859
+    },
+    {
+      "userId": 547,
+      "movieId": 70286,
+      "tag": "toplist09",
+      "timestamp": 1250742877
+    },
+    {
+      "userId": 547,
+      "movieId": 70293,
+      "tag": "toplist09",
+      "timestamp": 1253860588
+    },
+    {
+      "userId": 547,
+      "movieId": 71108,
+      "tag": "toplist09",
+      "timestamp": 1292047039
+    },
+    {
+      "userId": 547,
+      "movieId": 71464,
+      "tag": "toplist09",
+      "timestamp": 1259383811
+    },
+    {
+      "userId": 547,
+      "movieId": 71745,
+      "tag": "toplist09",
+      "timestamp": 1259383809
+    },
+    {
+      "userId": 547,
+      "movieId": 72011,
+      "tag": "toplist09",
+      "timestamp": 1262145753
+    },
+    {
+      "userId": 547,
+      "movieId": 72131,
+      "tag": "toplist09",
+      "timestamp": 1257694906
+    },
+    {
+      "userId": 547,
+      "movieId": 72176,
+      "tag": "tivo",
+      "timestamp": 1476113567
+    },
+    {
+      "userId": 547,
+      "movieId": 72226,
+      "tag": "toplist09",
+      "timestamp": 1259383836
+    },
+    {
+      "userId": 547,
+      "movieId": 72395,
+      "tag": "toplist09",
+      "timestamp": 1262146022
+    },
+    {
+      "userId": 547,
+      "movieId": 72720,
+      "tag": "toplist09",
+      "timestamp": 1271429973
+    },
+    {
+      "userId": 547,
+      "movieId": 72741,
+      "tag": "tivo",
+      "timestamp": 1476113594
+    },
+    {
+      "userId": 547,
+      "movieId": 73023,
+      "tag": "toplist09",
+      "timestamp": 1267280510
+    },
+    {
+      "userId": 547,
+      "movieId": 74324,
+      "tag": "toplist10",
+      "timestamp": 1312868042
+    },
+    {
+      "userId": 547,
+      "movieId": 74458,
+      "tag": "toplist10",
+      "timestamp": 1276350948
+    },
+    {
+      "userId": 547,
+      "movieId": 74545,
+      "tag": "toplist10",
+      "timestamp": 1276350928
+    },
+    {
+      "userId": 547,
+      "movieId": 77455,
+      "tag": "getdvd",
+      "timestamp": 1446815214
+    },
+    {
+      "userId": 547,
+      "movieId": 77455,
+      "tag": "toplist10",
+      "timestamp": 1292077803
+    },
+    {
+      "userId": 547,
+      "movieId": 78039,
+      "tag": "toplist10",
+      "timestamp": 1296798992
+    },
+    {
+      "userId": 547,
+      "movieId": 78499,
+      "tag": "toplist10",
+      "timestamp": 1293381435
+    },
+    {
+      "userId": 547,
+      "movieId": 78574,
+      "tag": "toplist10",
+      "timestamp": 1281363877
+    },
+    {
+      "userId": 547,
+      "movieId": 78653,
+      "tag": "toplist09",
+      "timestamp": 1277386636
+    },
+    {
+      "userId": 547,
+      "movieId": 79132,
+      "tag": "toplist10",
+      "timestamp": 1279986154
+    },
+    {
+      "userId": 547,
+      "movieId": 79242,
+      "tag": "toplist10",
+      "timestamp": 1281363890
+    },
+    {
+      "userId": 547,
+      "movieId": 80463,
+      "tag": "toplist10",
+      "timestamp": 1287199615
+    },
+    {
+      "userId": 547,
+      "movieId": 80489,
+      "tag": "toplist10",
+      "timestamp": 1294976085
+    },
+    {
+      "userId": 547,
+      "movieId": 81562,
+      "tag": "toplist10",
+      "timestamp": 1292077909
+    },
+    {
+      "userId": 547,
+      "movieId": 81591,
+      "tag": "toplist10",
+      "timestamp": 1296799009
+    },
+    {
+      "userId": 547,
+      "movieId": 81786,
+      "tag": "getdvd",
+      "timestamp": 1468248495
+    },
+    {
+      "userId": 547,
+      "movieId": 81786,
+      "tag": "toplist11",
+      "timestamp": 1312868144
+    },
+    {
+      "userId": 547,
+      "movieId": 81845,
+      "tag": "toplist10",
+      "timestamp": 1296798962
+    },
+    {
+      "userId": 547,
+      "movieId": 81932,
+      "tag": "toplist10",
+      "timestamp": 1296799034
+    },
+    {
+      "userId": 547,
+      "movieId": 82313,
+      "tag": "tivo",
+      "timestamp": 1476650744
+    },
+    {
+      "userId": 547,
+      "movieId": 82459,
+      "tag": "toplist10",
+      "timestamp": 1296798978
+    },
+    {
+      "userId": 547,
+      "movieId": 82463,
+      "tag": "toplist10",
+      "timestamp": 1299563653
+    },
+    {
+      "userId": 547,
+      "movieId": 83976,
+      "tag": "toplist11",
+      "timestamp": 1328012694
+    },
+    {
+      "userId": 547,
+      "movieId": 85394,
+      "tag": "toplist11",
+      "timestamp": 1312868243
+    },
+    {
+      "userId": 547,
+      "movieId": 86320,
+      "tag": "toplist11",
+      "timestamp": 1317998755
+    },
+    {
+      "userId": 547,
+      "movieId": 86833,
+      "tag": "toplist11",
+      "timestamp": 1312868088
+    },
+    {
+      "userId": 547,
+      "movieId": 87304,
+      "tag": "toplist11",
+      "timestamp": 1312868078
+    },
+    {
+      "userId": 547,
+      "movieId": 88129,
+      "tag": "toplist11",
+      "timestamp": 1322848734
+    },
+    {
+      "userId": 547,
+      "movieId": 88235,
+      "tag": "toplist11",
+      "timestamp": 1322849030
+    },
+    {
+      "userId": 547,
+      "movieId": 88810,
+      "tag": "toplist11",
+      "timestamp": 1322894457
+    },
+    {
+      "userId": 547,
+      "movieId": 89260,
+      "tag": "toplist11",
+      "timestamp": 1329513993
+    },
+    {
+      "userId": 547,
+      "movieId": 89470,
+      "tag": "toplist11",
+      "timestamp": 1317998768
+    },
+    {
+      "userId": 547,
+      "movieId": 89492,
+      "tag": "toplist11",
+      "timestamp": 1317998745
+    },
+    {
+      "userId": 547,
+      "movieId": 89759,
+      "tag": "toplist11",
+      "timestamp": 1327491628
+    },
+    {
+      "userId": 547,
+      "movieId": 89804,
+      "tag": "toplist11",
+      "timestamp": 1322848784
+    },
+    {
+      "userId": 547,
+      "movieId": 90057,
+      "tag": "toplist11",
+      "timestamp": 1322848999
+    },
+    {
+      "userId": 547,
+      "movieId": 90376,
+      "tag": "toplist11",
+      "timestamp": 1327491698
+    },
+    {
+      "userId": 547,
+      "movieId": 90439,
+      "tag": "toplist11",
+      "timestamp": 1332487973
+    },
+    {
+      "userId": 547,
+      "movieId": 90531,
+      "tag": "toplist11",
+      "timestamp": 1327491714
+    },
+    {
+      "userId": 547,
+      "movieId": 90866,
+      "tag": "toplist11",
+      "timestamp": 1327491687
+    },
+    {
+      "userId": 547,
+      "movieId": 91077,
+      "tag": "toplist11",
+      "timestamp": 1322848957
+    },
+    {
+      "userId": 547,
+      "movieId": 94931,
+      "tag": "toplist12",
+      "timestamp": 1355599327
+    },
+    {
+      "userId": 547,
+      "movieId": 94959,
+      "tag": "toplist12",
+      "timestamp": 1342275142
+    },
+    {
+      "userId": 547,
+      "movieId": 94969,
+      "tag": "getdvd",
+      "timestamp": 1409381147
+    },
+    {
+      "userId": 547,
+      "movieId": 95135,
+      "tag": "toplist12",
+      "timestamp": 1354966882
+    },
+    {
+      "userId": 547,
+      "movieId": 95449,
+      "tag": "toplist12",
+      "timestamp": 1356967567
+    },
+    {
+      "userId": 547,
+      "movieId": 95558,
+      "tag": "toplist12",
+      "timestamp": 1348198533
+    },
+    {
+      "userId": 547,
+      "movieId": 95761,
+      "tag": "dvd",
+      "timestamp": 1387360646
+    },
+    {
+      "userId": 547,
+      "movieId": 96417,
+      "tag": "dvd",
+      "timestamp": 1367718836
+    },
+    {
+      "userId": 547,
+      "movieId": 96588,
+      "tag": "toplist12",
+      "timestamp": 1355599298
+    },
+    {
+      "userId": 547,
+      "movieId": 96610,
+      "tag": "dvd",
+      "timestamp": 1361888026
+    },
+    {
+      "userId": 547,
+      "movieId": 96610,
+      "tag": "toplist12",
+      "timestamp": 1354966811
+    },
+    {
+      "userId": 547,
+      "movieId": 96728,
+      "tag": "toplist12",
+      "timestamp": 1355599008
+    },
+    {
+      "userId": 547,
+      "movieId": 96811,
+      "tag": "toplist12",
+      "timestamp": 1356623017
+    },
+    {
+      "userId": 547,
+      "movieId": 96832,
+      "tag": "dvd",
+      "timestamp": 1369217683
+    },
+    {
+      "userId": 547,
+      "movieId": 96832,
+      "tag": "toplist12",
+      "timestamp": 1356409181
+    },
+    {
+      "userId": 547,
+      "movieId": 97304,
+      "tag": "toplist12",
+      "timestamp": 1353063038
+    },
+    {
+      "userId": 547,
+      "movieId": 97673,
+      "tag": "toplist13",
+      "timestamp": 1383626018
+    },
+    {
+      "userId": 547,
+      "movieId": 97752,
+      "tag": "toplist12",
+      "timestamp": 1354966835
+    },
+    {
+      "userId": 547,
+      "movieId": 97921,
+      "tag": "toplist12",
+      "timestamp": 1354966859
+    },
+    {
+      "userId": 547,
+      "movieId": 97923,
+      "tag": "toplist12",
+      "timestamp": 1356623118
+    },
+    {
+      "userId": 547,
+      "movieId": 97938,
+      "tag": "toplist12",
+      "timestamp": 1354966894
+    },
+    {
+      "userId": 547,
+      "movieId": 98154,
+      "tag": "toplist12",
+      "timestamp": 1354966827
+    },
+    {
+      "userId": 547,
+      "movieId": 98961,
+      "tag": "toplist12",
+      "timestamp": 1355938883
+    },
+    {
+      "userId": 547,
+      "movieId": 99114,
+      "tag": "toplist12",
+      "timestamp": 1357543606
+    },
+    {
+      "userId": 547,
+      "movieId": 99149,
+      "tag": "toplist12",
+      "timestamp": 1356273884
+    },
+    {
+      "userId": 547,
+      "movieId": 101285,
+      "tag": "getdvd",
+      "timestamp": 1386729453
+    },
+    {
+      "userId": 547,
+      "movieId": 101525,
+      "tag": "toplist12",
+      "timestamp": 1386245688
+    },
+    {
+      "userId": 547,
+      "movieId": 101895,
+      "tag": "toplist13",
+      "timestamp": 1383626036
+    },
+    {
+      "userId": 547,
+      "movieId": 102194,
+      "tag": "toplist13",
+      "timestamp": 1386658060
+    },
+    {
+      "userId": 547,
+      "movieId": 102469,
+      "tag": "getdvd",
+      "timestamp": 1387083948
+    },
+    {
+      "userId": 547,
+      "movieId": 103107,
+      "tag": "toplist13",
+      "timestamp": 1396017727
+    },
+    {
+      "userId": 547,
+      "movieId": 103372,
+      "tag": "toplist13",
+      "timestamp": 1383625950
+    },
+    {
+      "userId": 547,
+      "movieId": 103449,
+      "tag": "dvd",
+      "timestamp": 1378132522
+    },
+    {
+      "userId": 547,
+      "movieId": 103624,
+      "tag": "toplist13",
+      "timestamp": 1388209512
+    },
+    {
+      "userId": 547,
+      "movieId": 103688,
+      "tag": "dvd",
+      "timestamp": 1472303875
+    },
+    {
+      "userId": 547,
+      "movieId": 105197,
+      "tag": "toplist13",
+      "timestamp": 1386657913
+    },
+    {
+      "userId": 547,
+      "movieId": 105355,
+      "tag": "toplist13",
+      "timestamp": 1397129838
+    },
+    {
+      "userId": 547,
+      "movieId": 105504,
+      "tag": "toplist13",
+      "timestamp": 1386245656
+    },
+    {
+      "userId": 547,
+      "movieId": 106100,
+      "tag": "toplist13",
+      "timestamp": 1389766232
+    },
+    {
+      "userId": 547,
+      "movieId": 106766,
+      "tag": "toplist13",
+      "timestamp": 1386658220
+    },
+    {
+      "userId": 547,
+      "movieId": 106916,
+      "tag": "toplist13",
+      "timestamp": 1386657846
+    },
+    {
+      "userId": 547,
+      "movieId": 106920,
+      "tag": "toplist13",
+      "timestamp": 1386657798
+    },
+    {
+      "userId": 547,
+      "movieId": 107141,
+      "tag": "toplist13",
+      "timestamp": 1386946018
+    },
+    {
+      "userId": 547,
+      "movieId": 107636,
+      "tag": "tivo",
+      "timestamp": 1476583144
+    },
+    {
+      "userId": 547,
+      "movieId": 109374,
+      "tag": "toplist14",
+      "timestamp": 1402760218
+    },
+    {
+      "userId": 547,
+      "movieId": 110871,
+      "tag": "getdvd",
+      "timestamp": 1399051398
+    },
+    {
+      "userId": 547,
+      "movieId": 111249,
+      "tag": "getdvd",
+      "timestamp": 1423194272
+    },
+    {
+      "userId": 547,
+      "movieId": 111251,
+      "tag": "dvd",
+      "timestamp": 1410947141
+    },
+    {
+      "userId": 547,
+      "movieId": 111251,
+      "tag": "toplist14",
+      "timestamp": 1446283752
+    },
+    {
+      "userId": 547,
+      "movieId": 111505,
+      "tag": "getdvd",
+      "timestamp": 1400501925
+    },
+    {
+      "userId": 547,
+      "movieId": 111622,
+      "tag": "toplist14",
+      "timestamp": 1420131617
+    },
+    {
+      "userId": 547,
+      "movieId": 112070,
+      "tag": "tivo",
+      "timestamp": 1476113970
+    },
+    {
+      "userId": 547,
+      "movieId": 112183,
+      "tag": "toplist14",
+      "timestamp": 1416281804
+    },
+    {
+      "userId": 547,
+      "movieId": 112290,
+      "tag": "toplist14",
+      "timestamp": 1411137921
+    },
+    {
+      "userId": 547,
+      "movieId": 112515,
+      "tag": "getdvd",
+      "timestamp": 1423194952
+    },
+    {
+      "userId": 547,
+      "movieId": 112515,
+      "tag": "toplist14",
+      "timestamp": 1418485385
+    },
+    {
+      "userId": 547,
+      "movieId": 112550,
+      "tag": "getdvd",
+      "timestamp": 1470238109
+    },
+    {
+      "userId": 547,
+      "movieId": 112552,
+      "tag": "toplist14",
+      "timestamp": 1417010184
+    },
+    {
+      "userId": 547,
+      "movieId": 112556,
+      "tag": "toplist14",
+      "timestamp": 1412347244
+    },
+    {
+      "userId": 547,
+      "movieId": 112852,
+      "tag": "toplist14",
+      "timestamp": 1407510485
+    },
+    {
+      "userId": 547,
+      "movieId": 113064,
+      "tag": "getdvd",
+      "timestamp": 1423194143
+    },
+    {
+      "userId": 547,
+      "movieId": 114254,
+      "tag": "getdvd",
+      "timestamp": 1450365156
+    },
+    {
+      "userId": 547,
+      "movieId": 114342,
+      "tag": "toplist14",
+      "timestamp": 1417010271
+    },
+    {
+      "userId": 547,
+      "movieId": 114459,
+      "tag": "getdvd",
+      "timestamp": 1412474417
+    },
+    {
+      "userId": 547,
+      "movieId": 114662,
+      "tag": "toplist14",
+      "timestamp": 1423131235
+    },
+    {
+      "userId": 547,
+      "movieId": 115139,
+      "tag": "tcm",
+      "timestamp": 1413426713
+    },
+    {
+      "userId": 547,
+      "movieId": 115569,
+      "tag": "toplist14",
+      "timestamp": 1431187332
+    },
+    {
+      "userId": 547,
+      "movieId": 115713,
+      "tag": "toplist15",
+      "timestamp": 1446211131
+    },
+    {
+      "userId": 547,
+      "movieId": 116161,
+      "tag": "toplist14",
+      "timestamp": 1417010500
+    },
+    {
+      "userId": 547,
+      "movieId": 116797,
+      "tag": "toplist14",
+      "timestamp": 1425780053
+    },
+    {
+      "userId": 547,
+      "movieId": 117176,
+      "tag": "toplist14",
+      "timestamp": 1417010208
+    },
+    {
+      "userId": 547,
+      "movieId": 117533,
+      "tag": "dvd",
+      "timestamp": 1473748292
+    },
+    {
+      "userId": 547,
+      "movieId": 117533,
+      "tag": "getdvd",
+      "timestamp": 1446815098
+    },
+    {
+      "userId": 547,
+      "movieId": 117533,
+      "tag": "toplist14",
+      "timestamp": 1417010466
+    },
+    {
+      "userId": 547,
+      "movieId": 118700,
+      "tag": "getdvd",
+      "timestamp": 1446815138
+    },
+    {
+      "userId": 547,
+      "movieId": 118700,
+      "tag": "toplist14",
+      "timestamp": 1423224182
+    },
+    {
+      "userId": 547,
+      "movieId": 118880,
+      "tag": "getdvd",
+      "timestamp": 1449757705
+    },
+    {
+      "userId": 547,
+      "movieId": 118880,
+      "tag": "toplist14",
+      "timestamp": 1449757002
+    },
+    {
+      "userId": 547,
+      "movieId": 122882,
+      "tag": "getdvd",
+      "timestamp": 1470112098
+    },
+    {
+      "userId": 547,
+      "movieId": 122882,
+      "tag": "toplist15",
+      "timestamp": 1449755519
+    },
+    {
+      "userId": 547,
+      "movieId": 123663,
+      "tag": "tivo",
+      "timestamp": 1476583542
+    },
+    {
+      "userId": 547,
+      "movieId": 123695,
+      "tag": "tivo",
+      "timestamp": 1476583459
+    },
+    {
+      "userId": 547,
+      "movieId": 127108,
+      "tag": "tivo",
+      "timestamp": 1476583101
+    },
+    {
+      "userId": 547,
+      "movieId": 127108,
+      "tag": "toplist15",
+      "timestamp": 1449756138
+    },
+    {
+      "userId": 547,
+      "movieId": 127114,
+      "tag": "toplist15",
+      "timestamp": 1449756046
+    },
+    {
+      "userId": 547,
+      "movieId": 127144,
+      "tag": "tivo",
+      "timestamp": 1476583306
+    },
+    {
+      "userId": 547,
+      "movieId": 127206,
+      "tag": "getdvd",
+      "timestamp": 1470111984
+    },
+    {
+      "userId": 547,
+      "movieId": 127212,
+      "tag": "tivo",
+      "timestamp": 1476113822
+    },
+    {
+      "userId": 547,
+      "movieId": 128235,
+      "tag": "tivo",
+      "timestamp": 1476583410
+    },
+    {
+      "userId": 547,
+      "movieId": 128360,
+      "tag": "toplist15",
+      "timestamp": 1449755822
+    },
+    {
+      "userId": 547,
+      "movieId": 128512,
+      "tag": "getdvd",
+      "timestamp": 1470112064
+    },
+    {
+      "userId": 547,
+      "movieId": 128606,
+      "tag": "toplist15",
+      "timestamp": 1468592921
+    },
+    {
+      "userId": 547,
+      "movieId": 131796,
+      "tag": "tivo",
+      "timestamp": 1476583367
+    },
+    {
+      "userId": 547,
+      "movieId": 132458,
+      "tag": "tivo",
+      "timestamp": 1476583517
+    },
+    {
+      "userId": 547,
+      "movieId": 132547,
+      "tag": "dvd",
+      "timestamp": 1473748244
+    },
+    {
+      "userId": 547,
+      "movieId": 132549,
+      "tag": "tivo",
+      "timestamp": 1476583387
+    },
+    {
+      "userId": 547,
+      "movieId": 132800,
+      "tag": "getdvd",
+      "timestamp": 1454164221
+    },
+    {
+      "userId": 547,
+      "movieId": 133645,
+      "tag": "toplist15",
+      "timestamp": 1449754606
+    },
+    {
+      "userId": 547,
+      "movieId": 133771,
+      "tag": "getdvd",
+      "timestamp": 1470111738
+    },
+    {
+      "userId": 547,
+      "movieId": 134130,
+      "tag": "toplist15",
+      "timestamp": 1446210938
+    },
+    {
+      "userId": 547,
+      "movieId": 134853,
+      "tag": "toplist15",
+      "timestamp": 1446211185
+    },
+    {
+      "userId": 547,
+      "movieId": 134859,
+      "tag": "getdvd",
+      "timestamp": 1470111811
+    },
+    {
+      "userId": 547,
+      "movieId": 134859,
+      "tag": "toplist15",
+      "timestamp": 1449755731
+    },
+    {
+      "userId": 547,
+      "movieId": 134881,
+      "tag": "toplist15",
+      "timestamp": 1446283359
+    },
+    {
+      "userId": 547,
+      "movieId": 137337,
+      "tag": "toplist15",
+      "timestamp": 1446211164
+    },
+    {
+      "userId": 547,
+      "movieId": 139385,
+      "tag": "toplist15",
+      "timestamp": 1449755171
+    },
+    {
+      "userId": 547,
+      "movieId": 139642,
+      "tag": "tivo",
+      "timestamp": 1476583038
+    },
+    {
+      "userId": 547,
+      "movieId": 140174,
+      "tag": "toplist15",
+      "timestamp": 1446211303
+    },
+    {
+      "userId": 547,
+      "movieId": 140715,
+      "tag": "tivo",
+      "timestamp": 1476583167
+    },
+    {
+      "userId": 547,
+      "movieId": 140725,
+      "tag": "tivo",
+      "timestamp": 1476583059
+    },
+    {
+      "userId": 547,
+      "movieId": 141749,
+      "tag": "toplist15",
+      "timestamp": 1468077718
+    },
+    {
+      "userId": 547,
+      "movieId": 142488,
+      "tag": "toplist15",
+      "timestamp": 1449754627
+    },
+    {
+      "userId": 547,
+      "movieId": 143385,
+      "tag": "toplist15",
+      "timestamp": 1446211337
+    },
+    {
+      "userId": 547,
+      "movieId": 144172,
+      "tag": "bkk",
+      "timestamp": 1472400655
+    },
+    {
+      "userId": 547,
+      "movieId": 146656,
+      "tag": "toplist15",
+      "timestamp": 1449755899
+    },
+    {
+      "userId": 547,
+      "movieId": 148482,
+      "tag": "tivo",
+      "timestamp": 1476583253
+    },
+    {
+      "userId": 547,
+      "movieId": 148626,
+      "tag": "toplist15",
+      "timestamp": 1449755637
+    },
+    {
+      "userId": 547,
+      "movieId": 155064,
+      "tag": "bkk",
+      "timestamp": 1472179444
+    },
+    {
+      "userId": 547,
+      "movieId": 156387,
+      "tag": "toplist16",
+      "timestamp": 1467946629
+    },
+    {
+      "userId": 547,
+      "movieId": 158783,
+      "tag": "bkk",
+      "timestamp": 1466133970
+    },
+    {
+      "userId": 547,
+      "movieId": 160954,
+      "tag": "bkk",
+      "timestamp": 1472178574
+    },
+    {
+      "userId": 547,
+      "movieId": 161336,
+      "tag": "getdvd",
+      "timestamp": 1469112392
+    },
+    {
+      "userId": 547,
+      "movieId": 161582,
+      "tag": "bkk",
+      "timestamp": 1472737430
+    },
+    {
+      "userId": 547,
+      "movieId": 163056,
+      "tag": "bkk",
+      "timestamp": 1472178747
+    },
+    {
+      "userId": 547,
+      "movieId": 163949,
+      "tag": "toplist16",
+      "timestamp": 1476419254
+    },
+    {
+      "userId": 547,
+      "movieId": 164977,
+      "tag": "tivo",
+      "timestamp": 1476113746
+    },
+    {
+      "userId": 547,
+      "movieId": 164979,
+      "tag": "tivo",
+      "timestamp": 1476113908
+    },
+    {
+      "userId": 567,
+      "movieId": 138610,
+      "tag": "found footage",
+      "timestamp": 1436827601
+    },
+    {
+      "userId": 567,
+      "movieId": 138610,
+      "tag": "survival horror",
+      "timestamp": 1436827612
+    },
+    {
+      "userId": 574,
+      "movieId": 47044,
+      "tag": "Michael Mann",
+      "timestamp": 1232812787
+    },
+    {
+      "userId": 583,
+      "movieId": 112552,
+      "tag": "determination",
+      "timestamp": 1430526450
+    },
+    {
+      "userId": 583,
+      "movieId": 112552,
+      "tag": "devotion",
+      "timestamp": 1430526450
+    },
+    {
+      "userId": 583,
+      "movieId": 112552,
+      "tag": "music",
+      "timestamp": 1430526450
+    },
+    {
+      "userId": 599,
+      "movieId": 66203,
+      "tag": "honest",
+      "timestamp": 1344134759
+    },
+    {
+      "userId": 599,
+      "movieId": 82152,
+      "tag": "alex pettyfer",
+      "timestamp": 1306109318
+    },
+    {
+      "userId": 611,
+      "movieId": 105504,
+      "tag": "hijacking",
+      "timestamp": 1471521058
+    },
+    {
+      "userId": 611,
+      "movieId": 105504,
+      "tag": "ocean",
+      "timestamp": 1471521036
+    },
+    {
+      "userId": 611,
+      "movieId": 105504,
+      "tag": "pirates",
+      "timestamp": 1471521067
+    },
+    {
+      "userId": 611,
+      "movieId": 105504,
+      "tag": "suspense",
+      "timestamp": 1471521044
+    },
+    {
+      "userId": 615,
+      "movieId": 111384,
+      "tag": "revenge",
+      "timestamp": 1408781036
+    },
+    {
+      "userId": 615,
+      "movieId": 111384,
+      "tag": "vengeance",
+      "timestamp": 1408781025
+    },
+    {
+      "userId": 615,
+      "movieId": 111931,
+      "tag": "femme-fatale",
+      "timestamp": 1425503802
+    },
+    {
+      "userId": 615,
+      "movieId": 111931,
+      "tag": "gritty",
+      "timestamp": 1425503802
+    },
+    {
+      "userId": 615,
+      "movieId": 111931,
+      "tag": "low-budget",
+      "timestamp": 1425503802
+    },
+    {
+      "userId": 630,
+      "movieId": 260,
+      "tag": "classic sci-fi",
+      "timestamp": 1443807766
+    },
+    {
+      "userId": 630,
+      "movieId": 260,
+      "tag": "series",
+      "timestamp": 1443807803
+    },
+    {
+      "userId": 652,
+      "movieId": 146501,
+      "tag": "gay",
+      "timestamp": 1449533216
+    },
+    {
+      "userId": 660,
+      "movieId": 260,
+      "tag": "imaginary world, characters, story, philosophical",
+      "timestamp": 1436680217
+    },
+    {
+      "userId": 660,
+      "movieId": 260,
+      "tag": "script",
+      "timestamp": 1436680177
+    },
+    {
+      "userId": 660,
+      "movieId": 135518,
+      "tag": "meaning of life",
+      "timestamp": 1436680885
+    },
+    {
+      "userId": 660,
+      "movieId": 135518,
+      "tag": "philosophical",
+      "timestamp": 1436680885
+    },
+    {
+      "userId": 660,
+      "movieId": 135518,
+      "tag": "sci-fi",
+      "timestamp": 1436680885
+    },
+    {
+      "userId": 663,
+      "movieId": 260,
+      "tag": "action",
+      "timestamp": 1438398078
+    },
+    {
+      "userId": 663,
+      "movieId": 260,
+      "tag": "Syfy",
+      "timestamp": 1438398050
+    }
+]
