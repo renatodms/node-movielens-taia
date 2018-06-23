@@ -16,6 +16,7 @@
   },
   "homepage": "https://github.com/renatodms/node-movielens-taia#readme",
   "dependencies": {
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "mongodb": "^3.0.10"
   }
 }

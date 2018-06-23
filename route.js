@@ -1,5 +1,7 @@
+const entity = require('./controller/entityController');
+
 module.exports = (app) => {
     
-    app.get('/:echo', (req, res) => res.send(req.params.echo));
+    app.get('/:entity', entity.getAll);
 
 };
