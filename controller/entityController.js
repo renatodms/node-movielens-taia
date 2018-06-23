@@ -9,7 +9,7 @@ exports.getAll = (req, res) => {
         if(err) throw err;
     
         let dbo = db.db('admin');
-        dbo.collection(entity).findOne({}, (err, result) => {
+        dbo.collection(entity).find({}).toArray((err, result) => {
             if(err) throw err;
     
             res.send(result);
