@@ -40,7 +40,8 @@ exports.getAllSized = (req, res) => {
 exports.addUser = (req, res) => {
     const name = req.body.name,
         age = req.body.age,
-        ocupation = req.body.ocupation;
+        ocupation = req.body.ocupation,
+        genres = req.body.genres;
     let ratings = req.body.ratings;
 
     if(!ratings) ratings = [];
@@ -57,6 +58,7 @@ exports.addUser = (req, res) => {
                 name: name,
                 age: age,
                 ocupation: ocupation,
+                genres: genres,
                 ratings: ratings
             }, (err, result) => {
                 if(err) throw err;
