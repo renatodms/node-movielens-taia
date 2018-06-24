@@ -24,8 +24,8 @@ mongoClient.connect(dbUrl, (err, db) => {
                 dbo.collection('tags').drop(function(err, delOK) {
                     if (err) throw err;
                     
-                    //dbo.collection('users').drop(function(err, delOK) {
-                    //    if (err) throw err;
+                    dbo.collection('users').drop(function(err, delOK) {
+                        if (err) throw err;
                         
                         dbo.collection('movies').insertMany(movies, (err, result) => {
                             if(err) throw err;
@@ -62,7 +62,7 @@ mongoClient.connect(dbUrl, (err, db) => {
                                 });
                             });
                         });
-                    //});
+                    });
                 });
             });
         });
