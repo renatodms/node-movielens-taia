@@ -38,7 +38,9 @@ exports.getAllSized = (req, res) => {
 };
 
 exports.addUser = (req, res) => {
-    const name = req.body.name;
+    const name = req.body.name,
+        age = req.body.age,
+        ocupation = req.body.ocupation;
     let ratings = req.body.ratings;
 
     if(!ratings) ratings = [];
@@ -53,6 +55,8 @@ exports.addUser = (req, res) => {
             dbo.collection('users').insertOne({
                 userId: parseInt(result[0].userId)+1,
                 name: name,
+                age: age,
+                ocupation: ocupation,
                 ratings: ratings
             }, (err, result) => {
                 if(err) throw err;
