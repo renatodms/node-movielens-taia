@@ -74,12 +74,17 @@ exports.getMoviesByGenrer = (req, res) => {
             dbo.collection('ratings').find({ $or: result }).sort({ rating: -1 }).limit(5).toArray((err, result) => {
                 if(err) throw err;
 
-                res.send(result.map(a => {
+                const movieIds = result.map(a => {
                     let b = a;
-                    return b.movieId;
-                }));
+                    return { movieId: b.movieId };
+                });
+                dbo.collection('movies').find({ $or: movieIds }).toArray((err, result) => {
+                    if(err) throw err;
 
-                db.close();
+                    res.send(result);
+
+                    db.close();
+                });
             });
         });
     });
