@@ -37,6 +37,38 @@ exports.getAllSized = (req, res) => {
     });
 };
 
+exports.getMoviesByGenrer = (req, res) => {
+    const genrer = req.params.genrer;
+
+    mongoClient.connect(dbUrl, (err, db) => {
+        if(err) throw err;
+    
+        let dbo = db.db('admin');
+        dbo.collection('movies').find({ genres: { $in: [genrer] } }).toArray((err, result) => {
+            if(err) throw err;
+
+            result.map(a => {
+                let b = a;
+                delete b.genres;
+                delete b.title;
+                delete b._id;
+                return b;
+            });
+    
+            dbo.collection('ratings').find({ $or: result }).sort({ rating: -1 }).limit(5).toArray((err, result) => {
+                if(err) throw err;
+
+                res.send(result.map(a => {
+                    let b = a;
+                    return b.movieId;
+                }));
+
+                db.close();
+            });
+        });
+    });
+};
+
 exports.addUser = (req, res) => {
     const name = req.body.name,
         age = req.body.age,

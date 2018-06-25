@@ -8,6 +8,12 @@ const dbUrl = 'mongodb://localhost:27017/',
     ratings = JSON.parse(fs.readFileSync(__dirname + '/../data/ratings.json', 'utf8')),
     tags = JSON.parse(fs.readFileSync(__dirname + '/../data/tags.json', 'utf8'));
 
+movies.map(movie => {
+    let newMovie = movie;
+    newMovie.genres = movie.genres.split('|');
+    return newMovie;
+});
+
 mongoClient.connect(dbUrl, (err, db) => {
     if(err) throw err;
 

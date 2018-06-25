@@ -7,4 +7,6 @@ module.exports = (app) => {
     app.post('/users', entity.addUser);
     app.post('/ratings', entity.addRating);
 
+    app.get('/movies/findByGenrer/:genrer', entity.getMoviesByGenrer);
+
 };
