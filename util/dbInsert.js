@@ -76,6 +76,8 @@ mongoClient.connect(dbUrl, (err, db) => {
                                                             }
                                                             dbo.collection('users').insertMany(users, (err, result) => {
                                                                 if(err) throw err;
+
+                                                                console.log('ready');
                                         
                                                                 db.close();
                                                             });

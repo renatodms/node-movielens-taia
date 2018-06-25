@@ -90,6 +90,36 @@ exports.getMoviesByGenrer = (req, res) => {
     });
 };
 
+exports.getMoviesByUser = (req, res) => {
+    const userId = req.params.userId;
+
+    mongoClient.connect(dbUrl, (err, db) => {
+        if(err) throw err;
+    
+        let dbo = db.db('admin');
+        dbo.collection('users').findOne({ userId: parseInt(userId) }, (err, result) => {
+            if(err) throw err;
+
+            if(result){
+                const movieIds = result.ratings.map(a => {
+                    let b = a;
+                    if(b.rating >= 4) return { movieId: b.movieId };
+                    else return undefined;
+                }).filter((n) => n != undefined);
+                dbo.collection('movies').find({ $or: movieIds }).toArray((err, result) => {
+                    if(err) throw err;
+
+                    res.send(result);
+
+                    db.close();
+                });
+            } else {
+                res.send('Usuário não existe.');
+            }
+        });
+    });
+};
+
 exports.addUser = (req, res) => {
     const name = req.body.name,
         age = req.body.age,
