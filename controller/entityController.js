@@ -41,10 +41,13 @@ exports.addUser = (req, res) => {
     const name = req.body.name,
         age = req.body.age,
         ocupation = req.body.ocupation,
+        favoriteMovies = req.body.favoriteMovies,
         genres = req.body.genres;
     let ratings = req.body.ratings;
 
     if(!ratings) ratings = [];
+    if(!favoriteMovies) favoriteMovies = [];
+    if(!genres) genres = [];
 
     mongoClient.connect(dbUrl, (err, db) => {
         if(err) throw err;
@@ -58,6 +61,7 @@ exports.addUser = (req, res) => {
                 name: name,
                 age: age,
                 ocupation: ocupation,
+                favoriteMovies: favoriteMovies,
                 genres: genres,
                 ratings: ratings
             }, (err, result) => {
