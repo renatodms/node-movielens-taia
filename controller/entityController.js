@@ -37,6 +37,22 @@ exports.getAllSized = (req, res) => {
     });
 };
 
+exports.getById = (req, res) => {
+    const id = req.params.id;
+
+    mongoClient.connect(dbUrl, (err, db) => {
+        if(err) throw err;
+        let dbo = db.db('admin');
+        dbo.collection('movies').find({ movieId: id }).toArray((err, result) => {
+            if(err) throw err;
+    
+            res.send(result);
+    
+            db.close();
+        });
+    });
+};
+
 exports.getMoviesByGenrer = (req, res) => {
     const genrer = req.params.genrer;
 
