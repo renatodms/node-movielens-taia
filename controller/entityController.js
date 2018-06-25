@@ -40,10 +40,10 @@ exports.getAllSized = (req, res) => {
 exports.addUser = (req, res) => {
     const name = req.body.name,
         age = req.body.age,
-        ocupation = req.body.ocupation,
+        ocupation = req.body.ocupation;
+    let ratings = req.body.ratings,
         favoriteMovies = req.body.favoriteMovies,
         genres = req.body.genres;
-    let ratings = req.body.ratings;
 
     if(!ratings) ratings = [];
     if(!favoriteMovies) favoriteMovies = [];
@@ -71,6 +71,29 @@ exports.addUser = (req, res) => {
 
                 db.close();
             });
+        });
+    });
+};
+
+exports.addRating = (req, res) => {
+    const userId = req.body.userId,
+        movieId = req.body.movieId,
+        rating = req.body.rating;
+
+    mongoClient.connect(dbUrl, (err, db) => {
+        if(err) throw err;
+        
+        let dbo = db.db('admin');
+        dbo.collection('ratings').insertOne({
+            userId: userId,
+            movieId: movieId,
+            rating: rating
+        }, (err, result) => {
+            if(err) throw err;
+
+            res.send(result);
+
+            db.close();
         });
     });
 };
